@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-09" />
   <meta name="citation_publication_date" content="2023-06-09" />
   <meta property="article:published_time" content="2023-06-09" />
-  <meta name="dc.modified" content="2023-06-09T22:30:57+00:00" />
-  <meta property="article:modified_time" content="2023-06-09T22:30:57+00:00" />
+  <meta name="dc.modified" content="2023-06-09T23:17:10+00:00" />
+  <meta property="article:modified_time" content="2023-06-09T23:17:10+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/51c203d1033c4af3812eeee149b192e140835fb2/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/51c203d1033c4af3812eeee149b192e140835fb2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/51c203d1033c4af3812eeee149b192e140835fb2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/9a654a38db523543b9e8d95db3fe9a9b55db26eb/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/9a654a38db523543b9e8d95db3fe9a9b55db26eb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/9a654a38db523543b9e8d95db3fe9a9b55db26eb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,13 +68,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/51c203d1033c4af3812eeee149b192e140835fb2/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/9a654a38db523543b9e8d95db3fe9a9b55db26eb/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@51c203d](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@9a654a3](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 9, 2023.
 </em></small>
 
-|    **Versión** del producto 1.51c203d del 09 Jun 2023
+|    **Versión** del producto 1.9a654a3 del 09 Jun 2023
 
 
 
@@ -140,7 +140,7 @@ Entrega del producto 2 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Versión        | 1.51c203d del 09 Jun 2023                                       |
+| Versión        | 1.9a654a3 del 09 Jun 2023                                       |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -160,7 +160,7 @@ Entrega del producto 2 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 
 >    09 Jun 2023
 >
->    **Versión** 1.51c203d
+>    **Versión** 1.9a654a3
 
 <br>
 
@@ -246,7 +246,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.51c203d del 09 Jun 2023                                               |
+| Version        | 1.9a654a3 del 09 Jun 2023                                               |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -270,7 +270,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.51c203d del 09 Jun 2023                                               |
+| Version        | 1.9a654a3 del 09 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -294,7 +294,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.51c203d del 09 Jun 2023                                               |
+| Version        | 1.9a654a3 del 09 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -318,12 +318,62 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.51c203d del 09 Jun 2023                                               |
+| Version        | 1.9a654a3 del 09 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
 
 1. Modelo de gobierno SOA del FNA: actores, información y procedimientos
+
+
+>    E-Service. Fase II
+
+>    PRY01 Gobierno SOA. Contenido de los Productos Contractuales
+
+>    Contrato 1812020
+
+>    FNA, Stefanini
+
+>    09 Jun 2023
+>
+>    **Versión** 1.9a654a3
+
+<br>
+
+# Producto 3: PR03. Diseño de los Procesos y Responsabilidades del Comité de Gobierno
+El comité de gobierno del FNA, PR03 de este proyecto, establece necesaria la participación de la oficina de arquitectura del FNA (LOAF). Este comite sigue algunos de los preceptos y roles del Equipo de Arquitectura Ágil (Disciplined Agile® Architecture DA™). Este comité no sustituye ni supedita a otros existentes en el FNA, tales como el Comité de Control de Cambios, o los que surgen por demás asuntos tecnológicos. Dentro de este comité de gobierno existen roles permitentes a la arquitectura del FNA. Opcionalmente participarán otros roles, como los líderes y grupos de producto (que pueden venir desde otras vicepresidencias del Fondo).
+
+**Nota 1**: los roles del Comité de Gobierno de Arquitectura no posiciones dentro del organigrama del FNA.
+**Nota 2**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: desarrollo, gestión, gobierno de arquitectura y adopción.
+
+<br>
+
+## Justificación
+El Comité de Gobierno de Arquitectura captura y gestiona mediante registro en la bitácora de decisiones de arquitectura del FNA las razones, cambios, reformas, transiciones detrás de los requerimientos de arquitectura del FNA (flexibilidad, confiabilidad, rendimiento, mantenibilidad). Comunicará y establecerá responsabilidades directas que de las adaptaciones se deriven a fin de proveer el rastro pertinente a los revisores de estos modificaciones determinadas por el Comité. El Comité de Gobierno de Arquitectura del FNA es, por tanto, la instancia donde se dirimen y dirigen los requerimientos de arquitectura (TOGAF, Architecture Requirement Specification), muchas veces del tipo adaptación o migración tecnológicas, de mayor profundidad y exclusivas de las arquiteturas del FNA.
+
+## Contenidos
+1. Modelo operativo del Comité de Gobierno de Arquitecturas del FNA: ámbitos y alcances del comité
+1. Consideraciones para la puesta en marcha de la bitácora de decisiones de arquitectura
+1. Respositorio y gestión de los requerimientos de arquitectura del FNA (flexibilidad, confiabilidad, rendimiento, mantenibilidad)
+1. Métodos de evaluación de arquitecturas para el FNA
+
+<br>
+
+## Criterios de Aceptación
+* Especificaciones de la bitácora de decisiones de arquitectura
+* Especificaciones de funcionamiento del Comité de Gobierno de Arquitecturas del FNA
+* Esquema de comunicación y publicación de cambios a las arquitecturas del FNA
+
+<br>
+
+## Modelo de Implementación del PRY01
+![Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Agosto 2023](images/pry1gobierno.jpg){#fig: width=lin}
+
+_Fuente: Elaboración propia._
+
+<br>
+
+*** 
 
 
 ***
