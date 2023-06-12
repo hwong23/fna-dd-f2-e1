@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-12" />
   <meta name="citation_publication_date" content="2023-06-12" />
   <meta property="article:published_time" content="2023-06-12" />
-  <meta name="dc.modified" content="2023-06-12T14:54:59+00:00" />
-  <meta property="article:modified_time" content="2023-06-12T14:54:59+00:00" />
+  <meta name="dc.modified" content="2023-06-12T15:07:55+00:00" />
+  <meta property="article:modified_time" content="2023-06-12T15:07:55+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/c84a839d55eff8cde14a4f6c776986ae18eb6488/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/c84a839d55eff8cde14a4f6c776986ae18eb6488/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/c84a839d55eff8cde14a4f6c776986ae18eb6488/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/1bf73ce5bb9ccccb71bf30525f1a5b86098e711e/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/1bf73ce5bb9ccccb71bf30525f1a5b86098e711e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/1bf73ce5bb9ccccb71bf30525f1a5b86098e711e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -68,13 +68,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/c84a839d55eff8cde14a4f6c776986ae18eb6488/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/1bf73ce5bb9ccccb71bf30525f1a5b86098e711e/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@c84a839](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@1bf73ce](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 12, 2023.
 </em></small>
 
-|    **Versión** del producto 1.c84a839 del 12 Jun 2023
+|    **Versión** del producto 1.1bf73ce del 12 Jun 2023
 
 
 
@@ -140,7 +140,7 @@ Entrega del producto 2 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                                                                        |
 | Fuente         |                                                                        |
-| Versión        | 1.c84a839 del 12 Jun 2023                                       |
+| Versión        | 1.1bf73ce del 12 Jun 2023                                       |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -160,7 +160,7 @@ Entrega del producto 2 (PR01) del proyecto Gobierno SOA: Lista de las partes de 
 
 >    12 Jun 2023
 >
->    **Versión** 1.c84a839
+>    **Versión** 1.1bf73ce
 
 <br>
 
@@ -246,7 +246,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.c84a839 del 12 Jun 2023                                               |
+| Version        | 1.1bf73ce del 12 Jun 2023                                               |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -276,7 +276,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.c84a839 del 12 Jun 2023                                               |
+| Version        | 1.1bf73ce del 12 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -300,7 +300,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.c84a839 del 12 Jun 2023                                               |
+| Version        | 1.1bf73ce del 12 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -324,7 +324,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.c84a839 del 12 Jun 2023                                               |
+| Version        | 1.1bf73ce del 12 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -353,7 +353,7 @@ tablenos-caption-name: Tabla
 
 >    12 Jun 2023
 >
->    **Versión** 1.c84a839
+>    **Versión** 1.1bf73ce
 
 <br>
 
