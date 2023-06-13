@@ -1,5 +1,5 @@
 ---
-title: Hoja de Ruta E-Service PRY01 Gobierno SOA FNA
+title: Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
 keywords:
 - SOA
 - madurez
@@ -19,15 +19,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Hoja de Ruta E-Service PRY01 Gobierno SOA FNA" />
-  <meta name="citation_title" content="Hoja de Ruta E-Service PRY01 Gobierno SOA FNA" />
-  <meta property="og:title" content="Hoja de Ruta E-Service PRY01 Gobierno SOA FNA" />
-  <meta property="twitter:title" content="Hoja de Ruta E-Service PRY01 Gobierno SOA FNA" />
+  <meta name="dc.title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
+  <meta name="citation_title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
+  <meta property="og:title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
+  <meta property="twitter:title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
   <meta name="dc.date" content="2023-06-13" />
   <meta name="citation_publication_date" content="2023-06-13" />
   <meta property="article:published_time" content="2023-06-13" />
-  <meta name="dc.modified" content="2023-06-13T13:10:53+00:00" />
-  <meta property="article:modified_time" content="2023-06-13T13:10:53+00:00" />
+  <meta name="dc.modified" content="2023-06-13T13:22:07+00:00" />
+  <meta property="article:modified_time" content="2023-06-13T13:22:07+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/24860fa3ef6cf9a898c39c5626cfb16ede747d5c/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/24860fa3ef6cf9a898c39c5626cfb16ede747d5c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/24860fa3ef6cf9a898c39c5626cfb16ede747d5c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/976a8a833b94f62b52f670fc43641d6902d30ad1/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/976a8a833b94f62b52f670fc43641d6902d30ad1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/976a8a833b94f62b52f670fc43641d6902d30ad1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/24860fa3ef6cf9a898c39c5626cfb16ede747d5c/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/976a8a833b94f62b52f670fc43641d6902d30ad1/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@24860fa](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@976a8a8](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 13, 2023.
 </em></small>
 
-|    **Versión** del producto 1.24860fa del 13 Jun 2023
+|    **Versión** del producto 1.976a8a8 del 13 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.24860fa del 13 Jun 2023 |
+| Versión        | 1.976a8a8 del 13 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -150,6 +150,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 <br>
 
 ***
+{.page_break_before}
 
 
 >    E-Service. Fase II
@@ -162,11 +163,11 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 >
 >    13 Jun 2023
 >
->    **Versión** 1.24860fa
+>    **Versión** 1.976a8a8
 
 <br>
 
-# Producto 2: PR02. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
+# Producto 2: PR02. Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
 Políticas y procedimiento, paquetes de trabajo, identificación de personas, roles y herramientas a desplegar a cargo de la oficina de arquitectura del FNA por concepto de la instauración del gobierno.
 
 **Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: desarrollo, gestión, gobierno de arquitectura y adopción.
@@ -202,7 +203,7 @@ _Fuente: Elaboración propia._
 
 
 ---
-title: Vista de Contexto
+title: Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
 geometry:
   - top=1in
   - bottom=1in
@@ -217,7 +218,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                     |
 | Autor          |                                                                                                               |
 | Fuente         |                                                                                                               |
-| Versión        | **1.24860fa** del 13 Jun 2023                                                                          |
+| Versión        | **1.976a8a8** del 13 Jun 2023                                                                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -290,7 +291,7 @@ Una vez definido esta nueva versión del modelo de gobierno del FNA, debemos dot
 
 
 ---
-title: Vista de Contexto
+title: Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
 geometry:
   - top=1in
   - bottom=1in
@@ -305,7 +306,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.24860fa** del 13 Jun 2023                                           |
+| Versión        | **1.976a8a8** del 13 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -414,10 +415,11 @@ Los índices de efectividad SOA presentes en los análisis de madurez como el re
 * *6. Riesgo de permanencia de aplicaciones silos
 * *7. Riesgo de falta de trazabilidad para la evolución e implementación de los servicios SOA
 
+***
 
 
 ---
-title: Vista de Contexto
+title: Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
 geometry:
   - top=1in
   - bottom=1in
@@ -432,7 +434,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.24860fa del 13 Jun 2023                                               |
+| Version        | 1.976a8a8 del 13 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -441,7 +443,7 @@ tablenos-caption-name: Tabla
 
 
 ---
-title: Vista de Contexto
+title: Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
 geometry:
   - top=1in
   - bottom=1in
@@ -456,7 +458,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.24860fa del 13 Jun 2023                                               |
+| Version        | 1.976a8a8 del 13 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -465,7 +467,7 @@ tablenos-caption-name: Tabla
 
 
 ---
-title: Vista de Contexto
+title: Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
 geometry:
   - top=1in
   - bottom=1in
@@ -480,7 +482,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.24860fa del 13 Jun 2023                                               |
+| Version        | 1.976a8a8 del 13 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -489,7 +491,7 @@ tablenos-caption-name: Tabla
 
 
 ---
-title: Vista de Contexto
+title: Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
 geometry:
   - top=1in
   - bottom=1in
@@ -509,7 +511,7 @@ tablenos-caption-name: Tabla
 >
 >    13 Jun 2023
 >
->    **Versión** 1.24860fa
+>    **Versión** 1.976a8a8
 
 <br>
 
