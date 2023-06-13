@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-13" />
   <meta name="citation_publication_date" content="2023-06-13" />
   <meta property="article:published_time" content="2023-06-13" />
-  <meta name="dc.modified" content="2023-06-13T12:15:46+00:00" />
-  <meta property="article:modified_time" content="2023-06-13T12:15:46+00:00" />
+  <meta name="dc.modified" content="2023-06-13T13:02:52+00:00" />
+  <meta property="article:modified_time" content="2023-06-13T13:02:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/a0528eed6343cf679eaaca9b4995dce4aa184882/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/a0528eed6343cf679eaaca9b4995dce4aa184882/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/a0528eed6343cf679eaaca9b4995dce4aa184882/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/b8e57e9bc36236e27c608f410031838ee541b2e6/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/b8e57e9bc36236e27c608f410031838ee541b2e6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/b8e57e9bc36236e27c608f410031838ee541b2e6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/a0528eed6343cf679eaaca9b4995dce4aa184882/))
+<small><em>Este producto PR01 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/b8e57e9bc36236e27c608f410031838ee541b2e6/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@a0528ee](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@b8e57e9](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 13, 2023.
 </em></small>
 
-|    **Versión** del producto 1.a0528ee del 13 Jun 2023
+|    **Versión** del producto 1.b8e57e9 del 13 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.a0528ee del 13 Jun 2023 |
+| Versión        | 1.b8e57e9 del 13 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -162,7 +162,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 >
 >    13 Jun 2023
 >
->    **Versión** 1.a0528ee
+>    **Versión** 1.b8e57e9
 
 <br>
 
@@ -217,7 +217,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                     |
 | Autor          |                                                                                                               |
 | Fuente         |                                                                                                               |
-| Versión        | **1.a0528ee** del 13 Jun 2023                                                                          |
+| Versión        | **1.b8e57e9** del 13 Jun 2023                                                                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -254,51 +254,38 @@ _Fuente: Elaboración propia._
 <br>
 
 #### Elementos del Modelo de Gobierno, versión 0.5
-| Name| Type| Description| Properties|
-|:--------|:--------|:--------|:--------|
-|**Bitácora Arquitectura**|application-component|||
-|**Documentación Técnica**|application-component|||
-|**Modelo Arquitectura**|application-component|||
-|**Repositorio Análisis**|application-component|||
-|**Repositorio SOA**|application-component|||
-|**Arquitectura FNA</div>Mega**|application-interaction|||
-|**Especificaciones**|artifact|||
-|**Especificaciones**|artifact|Métricas<br>Conclusiones<br>Decisiones<br>||
-|**Especificaciones (copy)**|artifact|||
-|**ALS01. Complejidad**|assessment|||
-|**ALS02. Impacto**|assessment|||
-|**ALS03. Costo / Beneficio**|assessment|||
-|**Evento de cambio arquitectura SOA**|business-event|Sucede un evento en que la arquitectura SOA, o alguna de los componentes de la arquitectura de referencia del FNA es imputado por un cambio. <br>El cambio puede ser motivado por un requerimiento de arquitectura (TOGAF), una necesidad de negocio, o la adquisición de infraestructura (inversión de TI).<br>||
-|**Arquitectura Empresarial FNA**|business-interaction|||
-|**Comité de Cambios FNA**|business-interaction|||
-|**Comité de arquitectura FNA**|business-interaction|||
-|**Gobierno TI FNA**|business-interaction|||
-|**Oficina Arquitectura FNA**|business-interaction|||
-|**Caso Uso de Negocio**|business-object|||
-|**Inversión TI**|business-object|||
-|**Requerimiento de Arquitectura**|business-object|||
-|**Contrato de Gobierno SOA FNA**|contract|||
-|**Decisión**|data-object|||
-|**Decisión (copy)**|data-object|||
-|**Decisión Arq.**|data-object|||
-|**Junction**|junction|||
+| Name                                  | Type                    | Description                                                                                                                                                                                                                                                                                                      | Properties |
+|:--------------------------------------|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|
+| **Bitácora Arquitectura**             | application-component   |                                                                                                                                                                                                                                                                                                                  |            |
+| **Documentación Técnica**             | application-component   |                                                                                                                                                                                                                                                                                                                  |            |
+| **Modelo Arquitectura**               | application-component   |                                                                                                                                                                                                                                                                                                                  |            |
+| **Repositorio Análisis**              | application-component   |                                                                                                                                                                                                                                                                                                                  |            |
+| **Repositorio SOA**                   | application-component   |                                                                                                                                                                                                                                                                                                                  |            |
+| **Arquitectura FNA</div>Mega**        | application-interaction |                                                                                                                                                                                                                                                                                                                  |            |
+| **Especificaciones**                  | artifact                |                                                                                                                                                                                                                                                                                                                  |            |
+| **Especificaciones**                  | artifact                | Métricas, Conclusiones, Decisiones.<br>                                                                                                                                                                                                                                                                       |            |
+| **ALS01. Complejidad**                | assessment              |                                                                                                                                                                                                                                                                                                                  |            |
+| **ALS02. Impacto**                    | assessment              |                                                                                                                                                                                                                                                                                                                  |            |
+| **ALS03. Costo / Beneficio**          | assessment              |                                                                                                                                                                                                                                                                                                                  |            |
+| **Evento de cambio arquitectura SOA** | business-event          | Sucede un evento en que la arquitectura SOA, o alguna de los componentes de la arquitectura de referencia del FNA es imputado por un cambio. El cambio puede ser motivado por un requerimiento de arquitectura (TOGAF), una necesidad de negocio, o la adquisición de infraestructura (inversión de TI). |            |
+| **Arquitectura Empresarial FNA**      | business-interaction    |                                                                                                                                                                                                                                                                                                                  |            |
+| **Comité de Cambios FNA**             | business-interaction    |                                                                                                                                                                                                                                                                                                                  |            |
+| **Comité de arquitectura FNA**        | business-interaction    |                                                                                                                                                                                                                                                                                                                  |            |
+| **Gobierno TI FNA**                   | business-interaction    |                                                                                                                                                                                                                                                                                                                  |            |
+| **Oficina Arquitectura FNA**          | business-interaction    |                                                                                                                                                                                                                                                                                                                  |            |
+| **Caso Uso de Negocio**               | business-object         |                                                                                                                                                                                                                                                                                                                  |            |
+| **Inversión TI**                      | business-object         |                                                                                                                                                                                                                                                                                                                  |            |
+| **Requerimiento de Arquitectura**     | business-object         |                                                                                                                                                                                                                                                                                                                  |            |
+| **Contrato de Gobierno SOA FNA**      | contract                |                                                                                                                                                                                                                                                                                                                  |            |
+| **Decisión**                          | data-object             |                                                                                                                                                                                                                                                                                                                  |            |
+| **Decisión Arq.**                     | data-object             |                                                                                                                                                                                                                                                                                                                  |            |
 <div style="page-break-before: always;"></div>
-<br>
-
-Una vez definido esta nueva versión del modelo de gobierno del FNA, debemos dar sentido a este mediante la definición y detalle de los objetivos y las funciones del gobierno a los que este modelo debe ceñirse y responder.
 
 <br>
 
-## Anexo 1. Susceptibilidades de Gobierno (PR01) 
-1. Debilidad en la Completitud de los CU
-1. Herramientas y Métodos de QA relacionados con sistemas distribuidos y QA​
-1. Normalización y fortalecimiento de los ambientes QA ​
-1. Gestión del diseño y arquitecturas: categorización de complejidad​
-1. Correspondencia complejidad - diseño
-1. Débil (o inexistente) procedimiento de evaluación de inversión​
-1. Débil (o inexistente) formalidad para el cálculo de eficacia un inversión​ TI, proveedores
-1. Normnalizar registro de resultados de las entregas de proveedores​ (confiabilidad)
-1. Asignación de responsables de gestión de las inversiones de TI
+Una vez definido esta nueva versión del modelo de gobierno del FNA, debemos dotarlo de un sentido operativo mediante objetivos y funciones del gobierno a los que este modelo debe ceñirse y responder.
+
+<br>
 
 
 
@@ -313,25 +300,65 @@ fignos-caption-name: Imagen
 tablenos-caption-name: Tabla
 ...
 
-| Tema           | Vista de Contexto: **Elementos de la Arquitectura Impactados por el Proyecto** |
+| Tema           | Modelo de Gobierno SOA. v0.5: **Objetivos, Capacidades y Funciones del Gobierno** |
 |----------------|--------------------------------------------------------------------------------|
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | **1.a0528ee** del 13 Jun 2023                                           |
+| Versión        | **1.b8e57e9** del 13 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
 
+## Definición de Objetivos, Funciones y Capacidades del Gobierno SOA
+Dado los niveles de complejidad que el FNA ha alcanzado y por los riesgos tecnológico que contraen las partes analizadas en la Fase 1 de este diagnóstico (ver [04b.Resumen Fase 1](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)), esto es, aplicaciones, servicios, procesos, infraestructura, entre otros, la figura de gobierno SOA es de carácter obligatorio en el Fondo. Esta sirve además para  complementar los procedimientos de TI del Fondo (ver anexo 1, [06n. Anexos](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
 
-Funciones del Gobierno SOA del FNA
-    Equilibrio arquitectura y procesos SOA
-    Supervisión de efectividad y factibilidad SOA
-    Mejora de los índices de efectividad (madurez) SOA
-    Consideraciones para la puesta en marcha del gobierno SOA en el FNA
+De las problemáticas encontradas en la Fase 1 del presente diagnóstico, nos estamos refiriendo explícitamente a las que incrementan la complejidad de las herramientas de software y soluciones tecnológicas del FNA, _como lo es el manejo de dependencias de los servicios SOA del Fondo_. Es muy conocido, y demostrado, que solo esta condición es la causa de la mayoría de los sobreesfuerzos en los cambios y de la dificultades a la hora de predecir su impacto.
 
+Junto a esta complicación, que de por sí hace obligatoria la introdución de la figura del gobierno SOA en el Fondo, y que organizaciones como el OpenGroup señalan que se dan por la falta de Arquitectura Empresarial, y por consiguiente, por un débil gobierno, se encuentran otras que fueron levantadas en la Fase 1 del presente diagnóstico: agilidad limitada, complejidad e imprecisión en la trazabilidad, ocultamiento de funcionalidades (ver [04b.Resumen Fase 1](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
 
-### Definición de Objetivos y Capacidades del Gobierno SOA
+<br>
+
+### Objetivos Principales del Gobierno SOA del FNA
+Una vez identificadas estas problemáticas de orden mayor existentes en la empresa y que podemos resumir en tres: riesgo tecnológico, complejidad y nivel de adopción SOA presente en los desarrollos e implementaciones del FNA, el gobierno SOA propuesto para el Fondo tiene un objetivo general que es el siguiente.
+
+> El gobierno SOA es el vigía de las relaciones entre las áreas de negocio (la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA) y la implementación y diseño de soluciones SOA. El gobierno SOA del Fondo debe asistir en la aplicación y ejecución de un régimen (estándar) de implementación, observación y puesta en marcha de soluciones SOA.
+
+<br>
+
+Como objetivos específicos principales debe incluir, como mínimo, los siguientes:
+
+![](images/GobiernoSOA.3n.png){width="12in" height="7in"}
+[Imagen.]() Objetivos principales del gobierno SOA del FNA.
+
+_Fuente: elaboración propia._
+
+<br>
+
+1. Vigilancia del riesgo tecnológico en tres vías. Primero, hacer seguimiento a la inversión tecnológica, el cual involucra a los provedores del FNA y colaboración con externos; segundo, evaluar y constatar la implementación de herramientas de software, la cual podría limitarse a servicios SOA; y finalmente, controlar la adopción de nuevos diseños, nuevos marcos de trabajo, librerías o componentes de terceros.
+1. Del objetivo anterior (Vigilancia del riesgo tecnológico) se desprende este para enfatizar el control sobre la inversión de TI: vigilar la efectividad y factibilidad de los proyectos SOA de la organización en términos del área de efectividad del costo y factibilidad SOA. Ambos conceptos explicados en [Supervisión de efectividad y factibilidad SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md).
+1. Vigilar el crecimiento de la complejidad y el impacto de los nuevos cambios en la arquitectura de referencia SOA del Fondo, bien sea por medio de las revisiones de diseño, el comité de arquitectura, o por el desarrollo y distribución de un catálogo de soluciones preconstruídas que alivie y guíe a las fábricas y desarrolladores que trabajan para la empresa.
+1. Vigilar y perseguir el aumento de los índices de adopción, adaptación y efectividad SOA presentes en los análisis de madurez como el realizado en la Fase 1 del diagnóstico presente (ver [02.Fase 2 PR2 Estudio Madurez SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
+1. Poner el marcha el proceso de gobierno SOA del FNA descrito más adelante en este ejercicio (181-2020). Adaptar y monitorear los índices de rendimiento (KPI) del proceso.
+
+<br>
+
+### Otros Objetivos del Gobierno SOA
+Para complementar la lista de objetivos del gobierno SOA recomendados por este diagnóstico al Fondo, la lista siguiente expone objetivos que pueden ser conseguidos de forma indirecta, o con la mediación de proyectos transformadores, como la Arquitectura Empresarial, transformación digital, arquitectura de negocio, entre otros.
+
+1. Desde el área, o rol, de gobierno SOA del FNA, servir de guía en la entrega de soluciones de software conforme a la arquitectura de referencia estregada por esta consultoría.
+1. Informar de desviaciones en la relación de efectividad de costos de los proyectos SOA del FNA (en términos del área de inefectividad de costo e infactibilidad SOA.
+1. Hacer el seguimiento de las implementaciones de los cambios en la arquitectura de referencia: phase G, Implementation Governance, TOGAF ADM.
+
+<br>
+
+![](images/gobiernobjetivos.png){width="12in" height="7in"}
+[Imagen.]() Objetivos secundarios del gobierno SOA del FNA.
+
+_Fuente: elaboración propia._
+
+<br>
+
 #### G-OBJ1. Vigilancia del Riesgo Tecnológico
 La definición de riesgos tecnológico que perseguimos en este ejercicio de diseño de gobierno SOA tiene que ver únicamente con los dominios de arquitectura[^1], a los que estos impacten. Esta clasificación de los riesgos técnicos, y para efectos del ejercicio de gobierno objeto de este proyecto, es eficaz porque le facilita a cada arquitecto focalizar y mitigar aquellos riesgos relacionados con su dominio particular, que en este contexto consideramos como dominios de arquitectura a: servicios, aplicaciones, datos e infraestructura. Los riesgos transversales, como los causados por la deuda técnica, los clasificaremos en el dominio de servicios.
 
@@ -346,23 +373,47 @@ La definición de cada nivel de riesgo es como sigue.
 
   Hacer seguimiento a inversión tecnológica, provedores y colaboración con externos; evaluar y constatar la implementación de soluciones FNA, la cual podría limitarse a servicios SOA; controlar la adopción de nuevos diseños, nuevos marcos de trabajo, librerías o componentes de terceros.
 
-*** 
-
-R1. Riesgo de agilidad limitada (ver imagen 1)
-R2. Riesgo de baja orquestación SOA (ver imagen 2a y 2b)
-R3. Riesgo de crecimiento de dependencias entre servicios SOA
-R4. Riesgo de crecimiento de adaptadores particulares –opuesto al estándar– (ver imagen 3)
-R5. Riesgo de baja reutilización de servicios SOA
-R6. Riesgo de permanencia de aplicaciones silos
-R7. Riesgo de falta de trazabilidad para la evolución e implementación de los servicios SOA
-
-
-#### G-OBJS2. Vigilar la complejidad e impacto en la arquitectura SOA del Fondo
+#### G-OBJS2. Vigilar la Complejidad e Impacto en la Arquitectura SOA del Fondo
 Bien sea por medio de las revisiones de diseño, el comité de arquitectura, o por el desarrollo y distribución de un catálogo de soluciones preconstruídas que alivie y guíe a las fábricas y desarrolladores que trabajan para la empresa.
 
-#### G-OBJ3. Vigilar y alcanzar los índices de efectividad SOA
+#### G-OBJ3. Vigilar y Alcanzar los Índices de Efectividad SOA
 Los índices de efectividad SOA presentes en los análisis de madurez como el realizado en la Fase 1 del diagnóstico presente.
 
+<br>
+
+## Funciones del Gobierno SOA del FNA
+1. Equilibrio arquitectura y procesos SOA
+1. Supervisión de efectividad y factibilidad SOA
+1. Mejora de los índices de efectividad (madurez) SOA
+1. Consideraciones para la puesta en marcha del gobierno SOA en el FNA
+
+
+
+
+
+## Anexo 1. Susceptibilidades de Gobierno (PR01) 
+1. Debilidad en la Completitud de los CU
+1. Herramientas y Métodos de QA relacionados con sistemas distribuidos y QA​
+1. Normalización y fortalecimiento de los ambientes QA ​
+1. Gestión del diseño y arquitecturas: categorización de complejidad​
+1. Correspondencia complejidad - diseño
+1. Débil (o inexistente) procedimiento de evaluación de inversión​
+1. Débil (o inexistente) formalidad para el cálculo de eficacia un inversión​ TI, proveedores
+1. Normnalizar registro de resultados de las entregas de proveedores​ (confiabilidad)
+1. Asignación de responsables de gestión de las inversiones de TI
+
+<br>
+
+## Anexo 2. Riesgos Técnicos FNA (E-Service, 2022)
+* *1. Riesgo de agilidad limitada (ver imagen 1)
+* *2. Riesgo de baja orquestación SOA (ver imagen 2a y 2b)
+* *3. Riesgo de crecimiento de dependencias entre servicios SOA
+* *4. Riesgo de crecimiento de adaptadores particulares –opuesto al estándar– (ver imagen 3)
+* *5. Riesgo de baja reutilización de servicios SOA
+* *6. Riesgo de permanencia de aplicaciones silos
+* *7. Riesgo de falta de trazabilidad para la evolución e implementación de los servicios SOA
+
+
 
 ---
 title: Vista de Contexto
@@ -380,7 +431,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.a0528ee del 13 Jun 2023                                               |
+| Version        | 1.b8e57e9 del 13 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -404,7 +455,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.a0528ee del 13 Jun 2023                                               |
+| Version        | 1.b8e57e9 del 13 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -428,7 +479,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.a0528ee del 13 Jun 2023                                               |
+| Version        | 1.b8e57e9 del 13 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -457,7 +508,7 @@ tablenos-caption-name: Tabla
 >
 >    13 Jun 2023
 >
->    **Versión** 1.a0528ee
+>    **Versión** 1.b8e57e9
 
 <br>
 
