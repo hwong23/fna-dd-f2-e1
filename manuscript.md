@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-14" />
   <meta name="citation_publication_date" content="2023-06-14" />
   <meta property="article:published_time" content="2023-06-14" />
-  <meta name="dc.modified" content="2023-06-14T12:48:02+00:00" />
-  <meta property="article:modified_time" content="2023-06-14T12:48:02+00:00" />
+  <meta name="dc.modified" content="2023-06-14T12:50:24+00:00" />
+  <meta property="article:modified_time" content="2023-06-14T12:50:24+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/d1c5b15df4dc02cc6c5944842eedb58f0b65495f/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/d1c5b15df4dc02cc6c5944842eedb58f0b65495f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/d1c5b15df4dc02cc6c5944842eedb58f0b65495f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/cbe402b9a7fbfcb30cd8eff6bec36084efa98fdd/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/cbe402b9a7fbfcb30cd8eff6bec36084efa98fdd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/cbe402b9a7fbfcb30cd8eff6bec36084efa98fdd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/d1c5b15df4dc02cc6c5944842eedb58f0b65495f/))
+<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/cbe402b9a7fbfcb30cd8eff6bec36084efa98fdd/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@d1c5b15](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@cbe402b](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 14, 2023.
 </em></small>
 
-|    **Versión** del producto 1.d1c5b15 de 14 Jun 2023
+|    **Versión** del producto 1.cbe402b de 14 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.d1c5b15 del 14 Jun 2023 |
+| Versión        | 1.cbe402b del 14 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -163,7 +163,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 >
 >    14 Jun 2023
 >
->    **Versión** 1.d1c5b15
+>    **Versión** 1.cbe402b
 
 <br>
 
@@ -218,7 +218,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                     |
 | Autor          |                                                                                                               |
 | Fuente         |                                                                                                               |
-| Versión        | **1.d1c5b15** del 14 Jun 2023                                                                          |
+| Versión        | **1.cbe402b** del 14 Jun 2023                                                                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -306,7 +306,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.d1c5b15** del 14 Jun 2023                                           |
+| Versión        | **1.cbe402b** del 14 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -319,6 +319,14 @@ De las problemáticas encontradas en la Fase 1 del presente diagnóstico, nos es
 Junto a esta complicación, que de por sí hace obligatoria la introdución de la figura del gobierno SOA en el Fondo, y que organizaciones como el OpenGroup señalan que se dan por la falta de Arquitectura Empresarial, y por consiguiente, por un débil gobierno, se encuentran otras que fueron levantadas en la Fase 1 del presente diagnóstico: agilidad limitada, complejidad e imprecisión en la trazabilidad, ocultamiento de funcionalidades (ver [04b.Resumen Fase 1](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
 
 <br>
+
+## Funciones del Gobierno SOA del FNA
+1. Equilibrio arquitectura y procesos SOA
+1. Supervisión de efectividad y factibilidad SOA
+1. Mejora de los índices de efectividad (madurez) SOA
+1. Consideraciones para la puesta en marcha del gobierno SOA en el FNA
+
+
 
 ### Objetivos Principales del Gobierno SOA del FNA
 Una vez identificadas estas problemáticas de orden mayor existentes en la empresa y que podemos resumir en tres: riesgo tecnológico, complejidad y nivel de adopción SOA presente en los desarrollos e implementaciones del FNA, el gobierno SOA propuesto para el Fondo tiene un objetivo general que es el siguiente.
@@ -339,6 +347,7 @@ _Fuente: elaboración propia._
 1. G-OBJ1. Vigilancia del riesgo tecnológico en tres vías. Primero, hacer seguimiento a la inversión tecnológica, el cual involucra a los provedores del FNA y colaboración con externos; segundo, evaluar y constatar la implementación de herramientas de software, la cual podría limitarse a servicios SOA; y finalmente, controlar la adopción de nuevos diseños, nuevos marcos de trabajo, librerías o componentes de terceros.
 
    Del objetivo anterior (Vigilancia del riesgo tecnológico) se desprende este para enfatizar el control sobre la inversión de TI: vigilar la efectividad y factibilidad de los proyectos SOA de la organización en términos del área de efectividad del costo y factibilidad SOA. Ambos conceptos explicados en [Supervisión de efectividad y factibilidad SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md).
+
 1. G-OBJ2. Vigilar el crecimiento de la complejidad y el impacto de los nuevos cambios en la arquitectura de referencia SOA del Fondo, bien sea por medio de las revisiones de diseño, el comité de arquitectura, o por el desarrollo y distribución de un catálogo de soluciones preconstruídas que alivie y guíe a las fábricas y desarrolladores que trabajan para la empresa.
 1. G-OBJ3. Vigilar y perseguir el aumento de los índices de adopción, adaptación y efectividad SOA presentes en los análisis de madurez como el realizado en la Fase 1 del diagnóstico presente (ver [02.Fase 2 PR2 Estudio Madurez SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)). Poner el marcha el proceso de gobierno SOA del FNA descrito más adelante en este ejercicio (181-2020). Adaptar y monitorear los índices de rendimiento (KPI) del proceso.
 
@@ -382,15 +391,6 @@ Bien sea por medio de las revisiones de diseño, el comité de arquitectura, o p
 Los índices de efectividad SOA presentes en los análisis de madurez como el realizado en la Fase 1 del diagnóstico presente.
 
 <br>
-
-## Funciones del Gobierno SOA del FNA
-1. Equilibrio arquitectura y procesos SOA
-1. Supervisión de efectividad y factibilidad SOA
-1. Mejora de los índices de efectividad (madurez) SOA
-1. Consideraciones para la puesta en marcha del gobierno SOA en el FNA
-
-
-
 
 
 ## Anexo 1. Susceptibilidades de Gobierno (PR01) 
