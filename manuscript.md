@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-15" />
   <meta name="citation_publication_date" content="2023-06-15" />
   <meta property="article:published_time" content="2023-06-15" />
-  <meta name="dc.modified" content="2023-06-15T19:51:57+00:00" />
-  <meta property="article:modified_time" content="2023-06-15T19:51:57+00:00" />
+  <meta name="dc.modified" content="2023-06-15T20:57:03+00:00" />
+  <meta property="article:modified_time" content="2023-06-15T20:57:03+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/7c64b3222946320d48c9757838675b8a29cd4854/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/7c64b3222946320d48c9757838675b8a29cd4854/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/7c64b3222946320d48c9757838675b8a29cd4854/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/3319b5c88503b2884b0835d7b84439f33214fba2/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/3319b5c88503b2884b0835d7b84439f33214fba2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/3319b5c88503b2884b0835d7b84439f33214fba2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/7c64b3222946320d48c9757838675b8a29cd4854/))
+<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/3319b5c88503b2884b0835d7b84439f33214fba2/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@7c64b32](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@3319b5c](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 15, 2023.
 </em></small>
 
-|    **Versión** del producto 1.7c64b32 de 15 Jun 2023
+|    **Versión** del producto 1.3319b5c de 15 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.7c64b32 del 15 Jun 2023 |
+| Versión        | 1.3319b5c del 15 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -174,7 +174,7 @@ tablenos-caption-name: Tabla
 >
 >    15 Jun 2023
 >
->    **Versión** 1.7c64b32
+>    **Versión** 1.3319b5c
 
 <br>
 
@@ -228,7 +228,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                     |
 | Autor          |                                                                                                               |
 | Fuente         |                                                                                                               |
-| Versión        | **1.7c64b32** del 15 Jun 2023                                                                          |
+| Versión        | **1.3319b5c** del 15 Jun 2023                                                                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -314,7 +314,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.7c64b32** del 15 Jun 2023                                           |
+| Versión        | **1.3319b5c** del 15 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -360,6 +360,66 @@ _Fuente: Elaboración propia.)_
 
 ### Consideraciones para la puesta en marcha del gobierno SOA en el FNA
 
+
+
+---
+geometry:
+  - top=1in
+  - bottom=1in
+fignos-cleveref: True
+fignos-plus-name: Fig.
+fignos-caption-name: Imagen
+tablenos-caption-name: Tabla
+...
+
+| Tema           | Modelo de Gobierno SOA. v0.5: **Flujos de Trabajo Oficina de Arquitectura** |
+|----------------|--------------------------------------------------------------------------------|
+| Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Flujo de trabajo                    |
+| Autor          |                                                                                |
+| Fuente         |                                                                                |
+| Versión        | **1.3319b5c** del 15 Jun 2023                                           |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
+
+<br>
+
+Desarrollamos a continuación dos flujos fundamentales de la oficina de arquitectura. El primero, el FLUJ01. Diseño y Análisis de Modelos de Arquitectura del FNA, se ejecuta cada vez que exista una petición de requerimiento de cambio de arquitectura. Los demás pasos de este flujo se resumen a continuación.
+
+1. Recibe el requerimiento de arquitectura
+1. Inicia el proceso ADM - fase de preliminar: alistamiento y aprobación​
+1. Inicia el modelado​
+1. Continúa el proceso ADM - solicita implementación / gobierno
+
+La siguiente imagen ilustra los pasos descritos.
+
+![](images/flujoADM.png)
+
+[Imagen 3.]() Actividades y relaciones de los estados de un flujo de trabajo de la oficina de arquitectura con arreglo al proceso ADM de TOGAF. Flujo recomendado para la oficina de arquitectura del FNA.
+
+_Fuente: elaboración propia._
+
+Una variante del flujo de trabajo arquitectura ADM, y más sgnificativa para el FNA, incorpora los tipos de análisis que dentro del flujo se llevan a cabo.
+
+1. Arq1 recibe el cambio
+1. Inicia el proceso ADM - fase de preliminar: alistamiento y probación
+1. Inicia el modelado
+    1. Creación de contenidos
+    1. Diseño
+        1. Inicia diseño conceptual (nivel 100): appl, datos, TI, servicios, inversión
+        1. Bloques de construcción abstractos
+    1. Solución
+        1. Bloques de construcción de solución
+        1. Solicita diseño detallado (nivel 200, 300, 400 o 500): appl, datos, técnica, servicios
+    1. Inicia análisis
+        1. Impacto
+        1. Costo / beneficio
+        1. Plan de cambios
+        1. Estimación
+        1. Complejidad
+        1. Estructural
+        1. Otros
+1. Solicita al Arq solución el inicio del proceso ADM - fases de implementación / gobierno
+
+<br>
 
 
 ### Objetivo Principal del Gobierno SOA del FNA
