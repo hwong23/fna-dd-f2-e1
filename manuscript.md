@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-18" />
   <meta name="citation_publication_date" content="2023-06-18" />
   <meta property="article:published_time" content="2023-06-18" />
-  <meta name="dc.modified" content="2023-06-18T03:12:21+00:00" />
-  <meta property="article:modified_time" content="2023-06-18T03:12:21+00:00" />
+  <meta name="dc.modified" content="2023-06-18T03:16:50+00:00" />
+  <meta property="article:modified_time" content="2023-06-18T03:16:50+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/660dad194c154345c5c53f92cbf49462aff79357/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/660dad194c154345c5c53f92cbf49462aff79357/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/660dad194c154345c5c53f92cbf49462aff79357/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/197b9b9d7ecf56ed10ddc6cbef399dfce45b48fc/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/197b9b9d7ecf56ed10ddc6cbef399dfce45b48fc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/197b9b9d7ecf56ed10ddc6cbef399dfce45b48fc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/660dad194c154345c5c53f92cbf49462aff79357/))
+<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/197b9b9d7ecf56ed10ddc6cbef399dfce45b48fc/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@660dad1](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@197b9b9](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 18, 2023.
 </em></small>
 
-|    **Versión** del producto 1.660dad1 de 18 Jun 2023
+|    **Versión** del producto 1.197b9b9 de 18 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.660dad1 del 18 Jun 2023 |
+| Versión        | 1.197b9b9 del 18 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -174,7 +174,7 @@ tablenos-caption-name: Tabla
 >
 >    18 Jun 2023
 >
->    **Versión** 1.660dad1
+>    **Versión** 1.197b9b9
 
 <br>
 
@@ -228,7 +228,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                     |
 | Autor          |                                                                                                               |
 | Fuente         |                                                                                                               |
-| Versión        | **1.660dad1** del 18 Jun 2023                                                                          |
+| Versión        | **1.197b9b9** del 18 Jun 2023                                                                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -318,7 +318,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.660dad1** del 18 Jun 2023                                           |
+| Versión        | **1.197b9b9** del 18 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -381,7 +381,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Flujo de trabajo                    |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.660dad1** del 18 Jun 2023                                           |
+| Versión        | **1.197b9b9** del 18 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -428,7 +428,9 @@ Una variante del flujo de trabajo arquitectura ADM, y más sgnificativa para el 
        * Estructural
 
 
-[^2]: ABB y CBB, TOGAF 9.1. Características generales. Un bloque de construcción de TOGAF es un paquete de funcionalidad definido por necesidades de negocio. Puede ser cualquier clasificador (objeto tipo) que se corresponde con el modelo de contenidos de la empresa, como por ejemplo, actores, servicios, aplicaciones, o entidades de datos. Un bloque es un concepto que tiene límites claros y es reconocible como 'parte' en un dominio de experiencia. Puede o no interoperar con otros bloques. Es importante que un bloque de construcción debe tener una implementación y un uso, debe además evolucionar mediante la tecnología. Puede estar compuesto por otros (ensamblado), y por tanto, puede ser descompuesto (desensamblado) en sus bloques constituyentes. Es obligatorio que sea reutilizable, reemplazable, y especificado a conformidad.
+[^2]: ABB y CBB, TOGAF 9.1. Características generales. En https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap33.html.
+
+Los bloques de solución a los que nos referimos en el paso del arquitecto de solución son paquetes de funcionalidad definidos por necesidades de negocio o del arquitecto. Pueden ser cualquier clasificador (objeto tipo) correspondiente al modelo de contenidos de la empresa, como por ejemplo, actores, servicios, aplicaciones, o entidades de datos. Representan un único concepto que tiene límites claros y es reconocible como 'parte' en un dominio de la arquitectura. Puede o no interoperar con otros bloques. Es importante que un bloque de construcción debe tener una implementación y un uso, debe además evolucionar mediante la tecnología. Puede estar compuesto por otros (ensamblado), y por tanto, puede ser descompuesto (desensamblado) en sus bloques constituyentes. Es obligatorio que sea reutilizable, reemplazable, y especificado a conformidad.
 
 <br>
 
