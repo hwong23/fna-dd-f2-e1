@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-19" />
   <meta name="citation_publication_date" content="2023-06-19" />
   <meta property="article:published_time" content="2023-06-19" />
-  <meta name="dc.modified" content="2023-06-19T14:40:15+00:00" />
-  <meta property="article:modified_time" content="2023-06-19T14:40:15+00:00" />
+  <meta name="dc.modified" content="2023-06-19T14:53:53+00:00" />
+  <meta property="article:modified_time" content="2023-06-19T14:53:53+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/586778fa603d82988f7433de8620baea60ff1593/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/586778fa603d82988f7433de8620baea60ff1593/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/586778fa603d82988f7433de8620baea60ff1593/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/2c2fcc30b5ea0afcedcd0861b4b7986cf1629470/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/2c2fcc30b5ea0afcedcd0861b4b7986cf1629470/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/2c2fcc30b5ea0afcedcd0861b4b7986cf1629470/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/586778fa603d82988f7433de8620baea60ff1593/))
+<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/2c2fcc30b5ea0afcedcd0861b4b7986cf1629470/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@586778f](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@2c2fcc3](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 19, 2023.
 </em></small>
 
-|    **Versión** del producto 1.586778f de 19 Jun 2023
+|    **Versión** del producto 1.2c2fcc3 de 19 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.586778f del 19 Jun 2023 |
+| Versión        | 1.2c2fcc3 del 19 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -174,7 +174,7 @@ tablenos-caption-name: Tabla
 >
 >    19 Jun 2023
 >
->    **Versión** 1.586778f
+>    **Versión** 1.2c2fcc3
 
 <br>
 
@@ -228,7 +228,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                     |
 | Autor          |                                                                                                               |
 | Fuente         |                                                                                                               |
-| Versión        | **1.586778f** del 19 Jun 2023                                                                          |
+| Versión        | **1.2c2fcc3** del 19 Jun 2023                                                                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -318,7 +318,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.586778f** del 19 Jun 2023                                           |
+| Versión        | **1.2c2fcc3** del 19 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -417,7 +417,7 @@ Una de las mayores limitaciones para diseñar soluciones para los sistemas de in
 Desarrollar las habilidades y herramientas para representar, organizar y divulgar las ideas funcionales y sus detalles de implementación es lo que llamamos gestionar la complejidad en este contexto.
 
 #### G-OBJ3. Vigilar y Alcanzar los Índices de Efectividad SOA
-En este contexto equiparamos la definición de efectividad de arquitectura con el modelo de madurez OSIMM de TOGAF. A partir de ahí, desarrollaremos los índices sujetos de este objetivo. En este sentido, tomaremos como referencia la versión inicial de estos índices desarrolados en los análisis de madurez realizado en E-Service, Fase 1. A saber:
+Para el modelo de gobierno del FNA vamos a utilizar dos sistemas de índices de rendimiento. Para el primero, equiparamos la definición de efectividad de arquitectura con el modelo de madurez OSIMM de TOGAF. A partir de ahí, desarrollaremos los índices sujetos de este objetivo. En este sentido, tomaremos como referencia la versión inicial de estos índices desarrolados en los análisis de madurez realizado en E-Service, Fase 1. A saber:
 
 ![índices de efectividad de las arquitecturas del FNA.](images/madurezInfo_graf.png){#fig: width=}
 
@@ -426,6 +426,18 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 <br>
 
 Es deber de este objetivo establecer y desplegar los procedimientos para garantizar el aumento de estos índices de efectividad, así como monitorear el rendimiento (KPI) de los procesos de arquitecura involucrados y definidos más adelante.
+
+El segundo sistema de índices que utilizaremos es el desarrollado por la Fase I de E-Service. En este, establecemos como indicador clave _que el FNA mantenga el vínculo de sus activos tanto de infraestructura como los activos SOA con el contexto de negocio de las vicepresidencias de Operaciones y de Crédito_. Esto es, el principal indicador del gobierno SOA es la existencia y la vigencia de los vínculos entre los contextos de negocio y la arquitectura de referencia SOA FNA, y su tecnología.
+
+Este solo indicador del gobierno SOA, el del vínculo de los contextos negocio-tecnología SOA, que es útil también para otras disciplinas de gestión TI, _identifica y justifica los costos de un cambio en relación al Valor de negocio que pueda traer_. Sirve además de base para los procesos la mayoría de las decisiones de cambio, mejora, inversión, reforma, y otras propias de la gestión de la tecnología SOA. También funciona para medir la confiabilidad de los análisis que sobre los modelos se realicen. _Es por estas razones que para el Fondo este es el principal indicador de gobierno SOA a desarrollar_.
+
+De todos, el indicador de Vínculo Contexto Negocio-SOA es el más importante para el FNA. Para mantener el puntaje de este indicador alto debe recurrir a la actualización y mantenimiento del repositorio de arquitectura. En la medida en que este repositorio capture la mayor cantidad de información de los contextos referidos, el indicador aumentará, a la vez que el repositorio será un activo clave para todas las opeaciones de gestión de TI del FNA.
+
+![Indicador principal del gobierno SOA: KPI de Vínculo Contexto Negocio-SOA. Identifica y justifica los cambios SOA en relación al Valor de negocio.](images/vinculocontexto.png){#fig: width=}
+
+_Fuente: Diagnóstico SOA. E-Service (2022)._
+
+<br>
 
 ### Otros Objetivos del Gobierno SOA
 Para complementar la lista de objetivos específicos del gobierno SOA, v0.5, del FNA, la lista siguiente expone objetivos suplementarios, o que aplican bajo ciertas condiciones o relaciones con otros proyectos transformadores, como la Arquitectura Empresarial, transformación digital, arquitectura de negocio, entre otros.
@@ -486,7 +498,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Flujo de trabajo                    |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.586778f** del 19 Jun 2023                                           |
+| Versión        | **1.2c2fcc3** del 19 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
