@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-06-19'
+date-meta: '2023-06-20'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
   <meta property="og:title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
   <meta property="twitter:title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
-  <meta name="dc.date" content="2023-06-19" />
-  <meta name="citation_publication_date" content="2023-06-19" />
-  <meta property="article:published_time" content="2023-06-19" />
-  <meta name="dc.modified" content="2023-06-19T21:46:10+00:00" />
-  <meta property="article:modified_time" content="2023-06-19T21:46:10+00:00" />
+  <meta name="dc.date" content="2023-06-20" />
+  <meta name="citation_publication_date" content="2023-06-20" />
+  <meta property="article:published_time" content="2023-06-20" />
+  <meta name="dc.modified" content="2023-06-20T02:29:54+00:00" />
+  <meta property="article:modified_time" content="2023-06-20T02:29:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/b3bba4edba58920f5504b2268505a8ee747dca8d/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/b3bba4edba58920f5504b2268505a8ee747dca8d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/b3bba4edba58920f5504b2268505a8ee747dca8d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/45bac3b4176e0327c1867f82284fbd1c68e0fb21/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/45bac3b4176e0327c1867f82284fbd1c68e0fb21/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/45bac3b4176e0327c1867f82284fbd1c68e0fb21/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/b3bba4edba58920f5504b2268505a8ee747dca8d/))
+<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/45bac3b4176e0327c1867f82284fbd1c68e0fb21/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@b3bba4e](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del June 19, 2023.
+[Sharepoint STEF@45bac3b](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del June 20, 2023.
 </em></small>
 
-|    **Versión** del producto 1.b3bba4e de 19 Jun 2023
+|    **Versión** del producto 1.45bac3b de 20 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.b3bba4e del 19 Jun 2023 |
+| Versión        | 1.45bac3b del 20 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -172,9 +172,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    19 Jun 2023
+>    20 Jun 2023
 >
->    **Versión** 1.b3bba4e
+>    **Versión** 1.45bac3b
 
 <br>
 
@@ -228,7 +228,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                     |
 | Autor          |                                                                                                               |
 | Fuente         |                                                                                                               |
-| Versión        | **1.b3bba4e** del 19 Jun 2023                                                                          |
+| Versión        | **1.45bac3b** del 20 Jun 2023                                                                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -237,11 +237,10 @@ tablenos-caption-name: Tabla
 Los resultados de la consultoría E-Service, Fase I, 2022 señalan la _necesidad de manejo de la complejidad creciente en las soluciones del FNA_ (ver [Resultados E-Service, Fase I](https://stefaninilatam.sharepoint.com/SitePages/Home.aspx)). Sobre esa base, El Fondo Nacional del Ahorro estableció como pilar tecnológico la implementación obligatoria del Gobierno SOA, de forma tal, que preserve la continuidad de servicio y permita identificar y gestionar las amenazas y riesgos que impacten el desarrollo y evolución de las arquitecturas de software del Fondo, tarea base para los planes de alineación y puesta marcha de futuras soluciones y mejoras.
 
 
-# Modelo de Gobierno SOA del FNA: Actores, Flujos y Procedimientos
-El gobierno SOA del FNA, objeto de este proyecto, tiene impacto general en la empresa. Sin embargo, se desarrolla desde un centro condicionado por el alcance de este proyecto. Esta versión del Gobierno SOA del FNA nace en las partes e ítems de la arquitectura de software y de servicios del FNA consignadas en la vista de segmento de la empresa (ver Vista de Contextual, segmento de la empresa, [PR01. E-Service, Fase II](https://https://stefaninilatam.sharepoint.com/SitePages/Home.aspx/fna-dd-f2-pry1/manuscript.pdf)) pero no se queda ahí. Se extiende a actores, a interesados, a usuarios y entidades relacionados con aquellas partes de la arquitectura del FNA.
+# Modelo de Gobierno SOA del FNA: Actores, Información y Procedimientos
+El gobierno SOA del FNA, objeto de este proyecto, tiene impacto general en la empresa. Sin embargo, se desarrolla desde un centro condicionado por el alcance de este proyecto. Esta versión del Gobierno SOA del FNA nace en las partes e ítems de la arquitectura de software y de servicios del FNA consignadas en la vista de segmento de la empresa (ver Vista de Contextual, segmento de la empresa, [PR01. E-Service, Fase II](https://https://stefaninilatam.sharepoint.com/SitePages/Home.aspx/fna-dd-f2-pry1/manuscript.pdf)) pero no se agota ahí porque es necesario extenderlo a actores, interesados, usuarios y entidades relacionados con las partes de la arquitectura del FNA contenidas en la vista de segmento.
 
 A cotinuación presentamos el modelo base de gobierno para el FNA, primera edición, versión 0.1. 
-
 
 # Modelo de Gobierno SOA del FNA. Versión 0.2
 La versión inicial del modelo de Gobierno SOA del FNA, propuesto en la Fase I de E-Service establece apenas las bases de lo que debe ser un marco de trabajo para gobierno SOA del FNA. Esta versión hace foco en un asunto general: _responder y gestionar la evolutición de la arquitectura de referencia SOA actual del Fondo Nacional del Ahorro_, y deja para siguientes versiones de este marco de trabajo de gobierno SOA la inclusión de otras problemáticas que demanden mayor gobierno.
@@ -313,76 +312,12 @@ fignos-caption-name: Imagen
 tablenos-caption-name: Tabla
 ...
 
-| Tema           | Modelo de Gobierno SOA. v0.5: **Funciones del Gobierno** |
-|----------------|--------------------------------------------------------------------------------|
-| Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
-| Autor          |                                                                                |
-| Fuente         |                                                                                |
-| Versión        | **1.b3bba4e** del 19 Jun 2023                                           |
-| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
-
-<br>
-
-# Definición de Objetivos y Funciones del Gobierno SOA
-Los objetivos y funciones que vamos a definir para el gobierno SOA del FNA están dirigidos a las problemáticas encontradas en la Fase I, estos son, a saber: 
-
-*     Dado los niveles de complejidad que el FNA ha alcanzado y por los riesgos tecnológico que contraen las partes analizadas en la Fase 1 de este diagnóstico (...)
-*     De las problemáticas encontradas en la Fase 1 del presente diagnóstico, (...))explícitamente a las que incrementan la complejidad de las soluciones tecnológicas y de software del FNA, _como lo es el manejo de dependencias de los servicios SOA del Fondo_. Es muy conocido que esta condición es la causa de la mayoría de los sobreesfuerzos en los cambios y de las dificultades a la hora de predecir su impacto.
-*     (...) Estas complicaciones, que denotan un débil gobierno preexistente, se encuentran otras que fueron levantadas en la Fase 1 del diagnóstico E-Service: - Agilidad limitada, - Complejidad e imprecisión, en la trazabilidad, - Ocultamiento de funcionalidades.
-
- Ver [Resumen de Fase 1](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md).
-
-<br>
-
-## Funciones del Gobierno SOA del FNA
-Las condiciones preexistentes en el FNA indicadas arriba definen el contexto en el cual debe operar, y el que hay que enfrentar con el nuevo gobierno SOA del FNA, versión 0.5. Para enfrentar este contexto requerimos antes lo que llamaremos funciones del gobierno, y que estas sean explicitas para este contexto. del FNA. Estas funciones, además, deben tener un corresponsal directo, y esta es la oficina de arquitectura del FNA (LOAF), dado que esta es la que las debe ejecutar.
-
-Las funciones que el gobierno SOA del FNA debe proveer, y que la oficina de arquitectura del FNA debe realizar, son:
-
-* FUNC01. Vigilancia de alienación negocio-arquitectura
-* FUNC02. Equilibrio arquitectura y procesos SOA
-* FUNC03. Supervisión de efectividad y factibilidad SOA
-* FUNC04. Mejora de los índices de efectividad (madurez) SOA
-* FUNC05. Consideraciones para la puesta en marcha del gobierno SOA en el FNA
-
-<br>
-
-En una vista de conjunto, queremos presentar el hecho de que las funciones de gobierno, en tanto que acciones, cendrán a convertirse en las responsabilidades que los integrantes del área de arquitectura del FNA deben cumplir. En la imagen siguiente dejamos explícitos estas responsabilidades.
-
-![Funciones (responsabilidades) de la Oficina de Arquitectura del FNA. Gobierno SOA, v0.5.](images/funcionesgobierno.png){#fig: width=}
-
-_Fuente: Elaboración propia.)_
-
-<br>
-
-
-### Equilibrio arquitectura y procesos SOA
-
-### Supervisión de efectividad y factibilidad SOA
-
-### Mejora de los índices de efectividad (madurez) SOA
-
-### Consideraciones para la puesta en marcha del gobierno SOA en el FNA
-
-***
-
-
----
-geometry:
-  - top=1in
-  - bottom=1in
-fignos-cleveref: True
-fignos-plus-name: Fig.
-fignos-caption-name: Imagen
-tablenos-caption-name: Tabla
-...
-
 | Tema           | Modelo de Gobierno SOA. v0.5: **Objetivos del Gobierno** |
 |----------------|--------------------------------------------------------------------------------|
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.b3bba4e** del 19 Jun 2023                                           |
+| Versión        | **1.45bac3b** del 20 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -483,7 +418,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.b3bba4e** del 19 Jun 2023                                           |
+| Versión        | **1.45bac3b** del 20 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -569,7 +504,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Flujo de trabajo                    |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.b3bba4e** del 19 Jun 2023                                           |
+| Versión        | **1.45bac3b** del 20 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -638,7 +573,6 @@ _Fuente: Elaboración propia._
 
 
 ---
-title: Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA
 geometry:
   - top=1in
   - bottom=1in
@@ -648,17 +582,80 @@ fignos-caption-name: Imagen
 tablenos-caption-name: Tabla
 ...
 
-| Tema           | Vista de Contexto: **Elementos de la Arquitectura Impactados por el Proyecto** |
+| Tema           | Modelo de Gobierno SOA. v0.5: **Funciones del Gobierno y Matriz de Responsabilidades** |
 |----------------|--------------------------------------------------------------------------------|
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.b3bba4e del 19 Jun 2023                                               |
+| Versión        | **1.45bac3b** del 20 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
 
-1. Modelo de gobierno SOA del FNA: actores, información y procedimientos
+# Funciones del Gobierno SOA del FNA
+Las funciones que vamos a definir para el gobierno SOA del FNA, entendidas como responsabilidades de la oficina de arquitectura, están dirigidos a las problemáticas encontradas en la Fase I. Estos son, a saber: 
+
+*     Dado los niveles de complejidad que el FNA ha alcanzado y por los riesgos tecnológico que contraen las partes analizadas en la Fase 1 de este diagnóstico (...)
+*     De las problemáticas encontradas en la Fase 1 del presente diagnóstico, (...))explícitamente a las que incrementan la complejidad de las soluciones tecnológicas y de software del FNA, _como lo es el manejo de dependencias de los servicios SOA del Fondo_. Es muy conocido que esta condición es la causa de la mayoría de los sobreesfuerzos en los cambios y de las dificultades a la hora de predecir su impacto.
+*     (...) Estas complicaciones, que denotan un débil gobierno preexistente, se encuentran otras que fueron levantadas en la Fase 1 del diagnóstico E-Service: - Agilidad limitada, - Complejidad e imprecisión, en la trazabilidad, - Ocultamiento de funcionalidades.
+
+ Ver [Resumen de Fase 1](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md).
+
+<br>
+
+## Funciones de Gobierno FNA: Oficina de Arquitectura
+Las condiciones preexistentes en el FNA indicadas arriba definen el contexto en el cual debe operar, y el que hay que enfrentar con el nuevo gobierno SOA del FNA, versión 0.5. Para enfrentar este contexto requerimos antes lo que llamaremos funciones del gobierno, y que estas sean explícitas para el contexto del FNA. Estas funciones deben tener un corresponsal directo, y este es la oficina de arquitectura del FNA (LOAF), dado que esta es la que las debe ejecutar. Por tanto, el modelo de gobierno FNA, v0.5, propuesto arriba, _viene a jugar el rol del sistema u órgano operativo del que la oficina de arquitectura es el órgano ejectivo de este gobierno_.
+
+Para darle realización a todo el modelo de gobierno (el sistema operativo de la oficina) necesitamos en primer lugar que la oficina funcione de una manera particular. Esto es, la oficina debe ejecutar funciones claras y entregar el resultado de estas a quienes se las solicitan. Vamos a definir tres funcones fundamentales que, desde el gobierno, la oficina de arquitectura del FNA (LOAF) debe realizar con modalidad diaria. 
+
+Estas funciones son operaciones esperadas por aquellos con los que la oficina de arquitectura se relacione. Vienen siendo la interfaz de la oficina expuesta a terceros, y que estos pueden utilizar o requerir de los arquitectos.
+
+![Funciones operativas de la Oficina de Arquitectura del FNA. Operaciones solicitadas a la oficina.](images/funcionesof.png){#fig: width=}
+
+_Fuente: Elaboración propia._
+
+<br>
+
+En la imagen muestra que estas funciones operativas juegan el rol de interfaz de entrada para quien demande una respuesta (salida) de la oficina. Las funciones se complementan de solicitudes específicas que actúan a su vez como contratos de la interfaz de la oficina. Estas funciones se explican se la siguiente manera.
+
+1. Centralizar. La funciónd e centralizar se ocupa de reunir y gestionar la versión única de los productos de trabajo, y de la información, que posee la ofcina. Ejemplo, las decisiones de arquitectura. Es deber del área de arquitectura del FNA centralizar la autoría y gestión de este tipo de infomación. De igual manera se entiende esta función con otro ejemplo o tipo de información a centralizar: los modelos.
+
+1. Diagnosticar / Solución (modelar). La función de diagnósticar y modelar una solución es la función central de la oficina. Se debe a que todos los resultados que la oficina produce están basados en modelos, y en hechos objetivos, alejándose de la habitual intuición y el juicio apresurado.
+
+1. Distribuir (compartir). La función de distribuir (que equivale a la función de compartir) es la gestión de las entrega de los productos de trabajo y resultados de las funciones anteriores.
+
+<br>
+
+
+## Responsabilidades de la Oficina de Arquitectura
+Las responsabilide que el gobierno del FNA debe exigir, y que la oficina de arquitectura del FNA debe realizar, son:
+
+* FUNC01. Vigilancia de alienación negocio-arquitectura
+* FUNC02. Equilibrio arquitectura y procesos SOA
+* FUNC03. Supervisión de efectividad y factibilidad SOA
+* FUNC04. Mejora de los índices de efectividad (madurez) SOA
+* FUNC05. Consideraciones para la puesta en marcha del gobierno SOA en el FNA
+
+<br>
+
+En una vista de conjunto, queremos presentar el hecho de que las funciones de gobierno, en tanto que acciones, cendrán a convertirse en las responsabilidades que los integrantes del área de arquitectura del FNA deben cumplir. En la imagen siguiente dejamos explícitos estas responsabilidades.
+
+![Funciones (responsabilidades) de la Oficina de Arquitectura del FNA. Gobierno SOA, v0.5.](images/funcionesgobierno.png){#fig: width=}
+
+_Fuente: Elaboración propia._
+
+<br>
+
+
+### Equilibrio arquitectura y procesos SOA
+
+### Supervisión de efectividad y factibilidad SOA
+
+### Mejora de los índices de efectividad (madurez) SOA
+
+### Consideraciones para la puesta en marcha del gobierno SOA en el FNA
+
+***
 
 
 ## Referencias {.page_break_before}
