@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-20" />
   <meta name="citation_publication_date" content="2023-06-20" />
   <meta property="article:published_time" content="2023-06-20" />
-  <meta name="dc.modified" content="2023-06-20T02:53:56+00:00" />
-  <meta property="article:modified_time" content="2023-06-20T02:53:56+00:00" />
+  <meta name="dc.modified" content="2023-06-20T03:09:48+00:00" />
+  <meta property="article:modified_time" content="2023-06-20T03:09:48+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/d75f267f5b1549e2ec02cc9674994f330c2e2c2b/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/d75f267f5b1549e2ec02cc9674994f330c2e2c2b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/d75f267f5b1549e2ec02cc9674994f330c2e2c2b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/5489c7ee7296fd710f05ca7393f8d3c7b23b7b54/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/5489c7ee7296fd710f05ca7393f8d3c7b23b7b54/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/5489c7ee7296fd710f05ca7393f8d3c7b23b7b54/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/d75f267f5b1549e2ec02cc9674994f330c2e2c2b/))
+<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/5489c7ee7296fd710f05ca7393f8d3c7b23b7b54/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@d75f267](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@5489c7e](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 20, 2023.
 </em></small>
 
-|    **Versión** del producto 1.d75f267 de 20 Jun 2023
+|    **Versión** del producto 1.5489c7e de 20 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.d75f267 del 20 Jun 2023 |
+| Versión        | 1.5489c7e del 20 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -174,7 +174,7 @@ tablenos-caption-name: Tabla
 >
 >    20 Jun 2023
 >
->    **Versión** 1.d75f267
+>    **Versión** 1.5489c7e
 
 <br>
 
@@ -228,7 +228,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                     |
 | Autor          |                                                                                                               |
 | Fuente         |                                                                                                               |
-| Versión        | **1.d75f267** del 20 Jun 2023                                                                          |
+| Versión        | **1.5489c7e** del 20 Jun 2023                                                                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -317,12 +317,12 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.d75f267** del 20 Jun 2023                                           |
+| Versión        | **1.5489c7e** del 20 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
 
-### Objetivo Principal del Gobierno SOA del FNA
+## Objetivo Principal del Gobierno SOA del FNA
 Una vez identificadas estas problemáticas existentes en la empresa FNA, y que podemos resumir en 1) riesgo tecnológico, 2) complejidad y 3) nivel de formalización de la arquitectura dentro de los desarrollos e implementaciones del FNA, el gobierno SOA propuesto para el Fondo, versión 0.5, tiene un objetivo general que es el siguiente
 
 > El gobierno SOA es el vigía de las relaciones entre las áreas de negocio (la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA) y la implementación y diseño de soluciones SOA. El gobierno SOA del Fondo debe asistir en la aplicación y ejecución de un régimen (estándar) de implementación, observación y puesta en marcha de soluciones SOA.
@@ -335,7 +335,7 @@ _Fuente: Elaboración propia._
 
 Para sustentar este objetivo general, que puede resumirse en "mantener y gestionar la relación de negocio con la arquitectura TI del FNA", debemos consignar objetivos específicos, tales que sean asignables y responsabilizables a los actores principales del gobierno v0.5. Estos objetivos específicos, como mínimo, son los que describimos a continuación.
 
-### Objetivos Específicos del Gobierno
+## Objetivos Específicos del Gobierno
 Los objetivos asignables a los roles constituyentes de la oficina de arquitectura del FNA que garantizan el cumplimiento del objetivo general del gobierno son los siguientes.
 
 1. G-OBJ1. Vigilancia del riesgo tecnológico
@@ -346,7 +346,7 @@ Los objetivos asignables a los roles constituyentes de la oficina de arquitectur
 
 Los objetivos princiapl y específicos se encuentran ilustrados arriba, en la imagen _Objetivos principal y específicos del Gobierno SOA del FNA_, arriba @fig:objetivos-id. A continuación trataremos detalles de cada objetivo específico.
 
-#### G-OBJ1. Vigilancia del Riesgo Tecnológico
+### G-OBJ1. Vigilancia del Riesgo Tecnológico
 La definición de riesgos tecnológico que perseguimos en este ejercicio de diseño de gobierno SOA tiene que ver únicamente con los dominios de arquitectura[^1], a los que estos impacten. Esta clasificación de los riesgos técnicos, y para efectos del ejercicio de gobierno objeto de este proyecto, es eficaz porque le facilita a cada arquitecto focalizar y mitigar aquellos riesgos relacionados con su dominio particular, que en este contexto consideramos como dominios de arquitectura a: servicios, aplicaciones, datos e infraestructura. Los riesgos transversales, como los causados por la deuda técnica, los clasificaremos en el dominio de servicios.
 
 Una vez organizado slos riegos técnicos por dominio, cada uno deberá: hacer seguimiento a la inversión tecnológica, la cual involucra a los provedores del FNA y colaboración con externos; segundo, evaluar y constatar la implementación de herramientas de software, la cual podría limitarse a servicios SOA; y finalmente, controlar la adopción de nuevos diseños, nuevos marcos de trabajo, librerías o componentes de terceros.
@@ -359,19 +359,19 @@ Una vez organizado slos riegos técnicos por dominio, cada uno deberá: hacer se
 
 [^1]: TOGAF 9.1. Risk Management (2023): En https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap27.html
 
-##### Niveles de Riesgo Técnico para del FNA
+#### Niveles de Riesgo Técnico para del FNA
 Aún cuando tengamos la clasificación de riesgos técnicos, requerimos contar con niveles de criticidad a los riesgos técnicos (organizados por dominio de arquiteura). Los niveles que consideramos pertinentes para este trabajo de gobierno SOA del FNA son riesgo de nivel inicial y nivel residual.
 
 La definición de cada nivel de riesgo es como sigue.
 * Riesgo Técnico Inicial: nivel de riesgo al momento de su identificación en las arquitecturas del FNA. El riesgo permanece en este nivel antes y durante la implementación de las acciones de mitigación.
 * Riesgo Técnico Reisudal: este nivel que toma el riesgo técnico luego de la implementación de las acciones de mitigación. 
 
-#### G-OBJS2. Vigilar la Complejidad e Impacto en la Arquitectura SOA del Fondo
+### G-OBJS2. Vigilar la Complejidad e Impacto en la Arquitectura SOA del Fondo
 Una de las mayores limitaciones para diseñar soluciones para los sistemas de información, aplicaciones y herramientas de software es tener las habilidades y herramientas para entenderlos (antes de diseñar). A medida que los sistemas, y los programas debajo de estos, evolucionan y adquieren más características, los sistemas y las aplicaciones de software se vuelven complicados, con sutiles y crecientes dependencias entre sus componentes. Con el tiempo, la complejidad se acumula, y se vuelve cada vez más difícil para los ingenieros y desarrolladores, el mantener organizado (y en su conocimiento) todos los factores relevantes de la implementación mientras se encargan de modificar los sistemas. Esto ralentiza el desarrollo y conduce a fallos, que a su vez aumenta la lentitud del desarrollo agregandole costos al proceso. La complejidad incrementa inevitablemente. Mientras más componentes tenga el sistema (tamaño) y más personas trabajen en él (actores), mayor la dificultad para manejar la complejidad.
 
 Desarrollar las habilidades y herramientas para representar, organizar y divulgar las ideas funcionales y sus detalles de implementación es lo que llamamos gestionar la complejidad en este contexto.
 
-#### G-OBJ3. Vigilar y Alcanzar los Índices de Efectividad SOA
+### G-OBJ3. Vigilar y Alcanzar los Índices de Efectividad SOA
 Para el modelo de gobierno del FNA vamos a utilizar dos sistemas de índices de rendimiento. Para el primero, equiparamos la definición de efectividad de arquitectura con el modelo de madurez OSIMM de TOGAF. A partir de ahí, desarrollaremos los índices sujetos de este objetivo. En este sentido, tomaremos como referencia la versión inicial de estos índices desarrolados en los análisis de madurez realizado en E-Service, Fase 1. A saber:
 
 ![índices de efectividad de las arquitecturas del FNA.](images/madurezInfo_graf.png){#fig: width=}
@@ -394,7 +394,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 
 <br>
 
-### Otros Objetivos del Gobierno SOA
+## Otros Objetivos del Gobierno SOA
 Para complementar la lista de objetivos específicos del gobierno SOA, v0.5, del FNA, la lista siguiente expone objetivos suplementarios, o que aplican bajo ciertas condiciones o relaciones con otros proyectos transformadores, como la Arquitectura Empresarial, transformación digital, arquitectura de negocio, entre otros.
 
 1. Desde el área, o rol, de gobierno SOA del FNA, servir de guía en la entrega de soluciones de software conforme a la arquitectura de referencia estregada por esta consultoría.
@@ -418,12 +418,12 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.d75f267** del 20 Jun 2023                                           |
+| Versión        | **1.5489c7e** del 20 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
 
-### Capacidades FNA por Desarrollar para el Gobierno SOA
+## Capacidades FNA por Desarrollar para el Gobierno SOA
 Las capacidades requeridas por el gobierno SOA del Fondo, que a la vez soportan a la matriz de roles y responsabilidades (RACI) del equipo de gobierno SOA, desarrolama más adelante en este producto, están relacionados directamente con los objeitvos del gobierno SOA y con los riesgos tecnológicos encontrados en la Fase 1 de E-Service (ver [06a.Objetivos gobierno](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md), y [06c.Riesgos tecnológicos SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
 
 <br>
@@ -504,18 +504,21 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Flujo de trabajo                    |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.d75f267** del 20 Jun 2023                                           |
+| Versión        | **1.5489c7e** del 20 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
 
 # Flujos de Trabajo Oficina de Arquitectura
+Los flujos siguientes han sido definidos para priorizar la atención a los problemas encontrados en el análisis de susceptibilidad de gobierno, PR01.
+
+## Flujo de Trabajo Oficina de Arquitectura Interno
 Desarrollamos dos flujos fundamentales de la oficina de arquitectura. El primero, el FLUJ01. Diseño y Análisis de Modelos de Arquitectura del FNA, se ejecuta cada vez que exista una petición de requerimiento de cambio de arquitectura. Los demás pasos de este flujo se resumen a continuación.
 
 1. Recibe el requerimiento de arquitectura
     * Inicia el proceso ADM - Fase de preliminar: alistamiento y aprobación​
     * Arranca el modelado​ inicial o incremental, nivel 100 [^1]
-2. El arquitecto de solución continúa el proceso ADM - solicita implementación / gobierno
+1. El arquitecto de solución continúa el proceso ADM - solicita implementación / gobierno
 
 [^1]: Niveles de detalle de la ingeniería: https://editeca.com/lod-nivel-de-desarrollo/
 
@@ -529,6 +532,7 @@ _Fuente: Elaboración propia._
 
 <br>
 
+## Flujo de Trabajo Oficina de Arquitectura Colaborativo (Proveedores)
 Una variante del flujo de trabajo arquitectura ADM, y más sgnificativa para el FNA, incorpora los tipos de análisis que se deben llevar a cabo, como exigencia del gobierno que estamos instalando.
 
 1. El Arq. FNA recibe el requerimientos de cambio
@@ -587,7 +591,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.d75f267** del 20 Jun 2023                                           |
+| Versión        | **1.5489c7e** del 20 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -626,7 +630,7 @@ En la imagen muestra que estas funciones operativas juegan el rol de interfaz de
 
 <br>
 
-## Responsabilidades de la Oficina de Arquitectura
+# Responsabilidades de la Oficina de Arquitectura
 Las responsabilide que el gobierno del FNA debe exigir, y que la oficina de arquitectura del FNA debe realizar, son:
 
 * FUNC01. Vigilancia de alienación negocio-arquitectura
@@ -645,13 +649,13 @@ _Fuente: Elaboración propia._
 
 <br>
 
-### Equilibrio arquitectura y procesos SOA
+## Equilibrio arquitectura y procesos SOA
 
-### Supervisión de efectividad y factibilidad SOA
+## Supervisión de efectividad y factibilidad SOA
 
-### Mejora de los índices de efectividad (madurez) SOA
+## Mejora de los índices de efectividad (madurez) SOA
 
-### Consideraciones para la puesta en marcha del gobierno SOA en el FNA
+## Consideraciones para la puesta en marcha del gobierno SOA en el FNA
 
 ***
 
@@ -672,7 +676,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.d75f267 del 20 Jun 2023                                               |
+| Version        | 1.5489c7e del 20 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
