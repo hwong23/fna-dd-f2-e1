@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-21" />
   <meta name="citation_publication_date" content="2023-06-21" />
   <meta property="article:published_time" content="2023-06-21" />
-  <meta name="dc.modified" content="2023-06-21T13:05:05+00:00" />
-  <meta property="article:modified_time" content="2023-06-21T13:05:05+00:00" />
+  <meta name="dc.modified" content="2023-06-21T15:36:41+00:00" />
+  <meta property="article:modified_time" content="2023-06-21T15:36:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/4e64f06d3f9da1f0753921870a2b2faba3d68eb6/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/4e64f06d3f9da1f0753921870a2b2faba3d68eb6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/4e64f06d3f9da1f0753921870a2b2faba3d68eb6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/71254cd5a0d6712a6bd24796722e5459b1915fa7/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/71254cd5a0d6712a6bd24796722e5459b1915fa7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/71254cd5a0d6712a6bd24796722e5459b1915fa7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/4e64f06d3f9da1f0753921870a2b2faba3d68eb6/))
+<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/71254cd5a0d6712a6bd24796722e5459b1915fa7/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@4e64f06](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@71254cd](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 21, 2023.
 </em></small>
 
-|    **Versión** del producto 1.4e64f06 de 21 Jun 2023
+|    **Versión** del producto 1.71254cd de 21 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.4e64f06 del 21 Jun 2023 |
+| Versión        | 1.71254cd del 21 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -174,7 +174,7 @@ tablenos-caption-name: Tabla
 >
 >    21 Jun 2023
 >
->    **Versión** 1.4e64f06
+>    **Versión** 1.71254cd
 
 <br>
 
@@ -228,7 +228,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                     |
 | Autor          |                                                                                                               |
 | Fuente         |                                                                                                               |
-| Versión        | **1.4e64f06** del 21 Jun 2023                                                                          |
+| Versión        | **1.71254cd** del 21 Jun 2023                                                                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -240,7 +240,7 @@ Los resultados de la consultoría E-Service, Fase I, 2022 señalan la _necesidad
 # Modelo de Gobierno SOA del FNA: Actores, Información y Procedimientos
 El gobierno SOA del FNA, objeto de este proyecto, tiene impacto general en la empresa. Sin embargo, se desarrolla desde un centro condicionado por el alcance de este proyecto. Esta versión del Gobierno SOA del FNA nace en las partes e ítems de la arquitectura de software y de servicios del FNA consignadas en la vista de segmento de la empresa (ver Vista de Contextual, segmento de la empresa, [PR01. E-Service, Fase II](https://https://stefaninilatam.sharepoint.com/SitePages/Home.aspx/fna-dd-f2-pry1/manuscript.pdf)) pero no se agota ahí porque es necesario extenderlo a actores, interesados, usuarios y entidades relacionados con las partes de la arquitectura del FNA contenidas en la vista de segmento.
 
-A cotinuación presentamos el modelo base de gobierno para el FNA, primera edición, versión 0.1. 
+A cotinuación presentamos el modelo base de gobierno de arquiteturas SOA para el FNA, primera edición, versión 0.1.
 
 # Modelo de Gobierno SOA del FNA. Versión 0.2
 La versión inicial del modelo de Gobierno SOA del FNA, propuesto en la Fase I de E-Service establece apenas las bases de lo que debe ser un marco de trabajo para gobierno SOA del FNA. Esta versión hace foco en un asunto general: _responder y gestionar la evolutición de la arquitectura de referencia SOA actual del Fondo Nacional del Ahorro_, y deja para siguientes versiones de este marco de trabajo de gobierno SOA la inclusión de otras problemáticas que demanden mayor gobierno.
@@ -291,6 +291,7 @@ Descripción de los elementos del modelo de gobierno.
 |**Inversión TI**|business-object|||
 |**Requerimiento de Arquitectura**|business-object|||
 |**Contrato de Gobierno SOA FNA**|contract|||
+|**Declaración Trabajo Arquitectura**|contract|La declaración de trabajo de arquitectura define el alcance y el enfoque que se utilizará para completar un ciclo de desarrollo de arquitectura (ver flujo de trabajo de oficina de arquitectura FNA). Debe contener los elementos contra los que se medirá la ejecución exitosa del proyecto/cambio de arquitectura. Es además el insumo para los acuerdos contractuales entre el proveedor y la empresa.||
 |**Requerimiento**|contract|||
 |**Requerimiento**|contract|||
 |**Requerimiento**|contract|||
@@ -304,6 +305,22 @@ Descripción de los elementos del modelo de gobierno.
 
 ## Bitácora de Decisiones de Arquitectura
 La bitácora de decisiones es una herramienta para gestionar la toma de decisiones de arquitectura. Por tal razón, estructurar y genera gestión seguimiento, (versión y trazabilidad) a las discusiones de la oficina de arquitectura del FNA. El objetivo de esta herramienta es el de consensuar a todos los arquitectos alrededor del mismo contexto, problema, restricciones, conveniencia (pro/con), alternativas y opciones de solución.
+
+## Declaración de Trabajo de Arquitectura
+La declaración de trabajo de arquitectura define el alcance y el enfoque que se utilizará para completar un ciclo de desarrollo de arquitectura (ver flujo de trabajo de oficina de arquitectura FNA). Debe contener los elementos contra los que se medirá la ejecución exitosa del proyecto/cambio de arquitectura. 
+
+El objetivo de esta información es ser el insumo para la toma de decisiones de la gestión de tecnología del FNA, y servir en el dimensionamiento y gestión de los acuerdos contractuales entre el proveedor y la empresa.
+
+La declaración de trabajo puede contener, como mínimo, 
+* Descripción del trabajo/solicitud
+* Contexto tras el trabajo (solicitud) de arquitectura
+* Denominación del proyecto de arquitectura y alcance (una vez aprobado el cambio)
+* Prerequisitos para la ejecución del cambio (Vision)
+* Esquema de trabajo del cambio en cada dominio y componente de la arquitectura
+* Equipo de trabajo, roles, responsabilidades y entregables
+* Criterios de aceptación
+* Plan de trabajo y calendario
+* Aprobaciones
 
 ## Repositorio SOA
 ## Repositorio Análisis
@@ -334,7 +351,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.4e64f06** del 21 Jun 2023                                           |
+| Versión        | **1.71254cd** del 21 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -435,7 +452,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.4e64f06** del 21 Jun 2023                                           |
+| Versión        | **1.71254cd** del 21 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -487,7 +504,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Flujo de trabajo                    |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.4e64f06** del 21 Jun 2023                                           |
+| Versión        | **1.71254cd** del 21 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -574,7 +591,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.4e64f06** del 21 Jun 2023                                           |
+| Versión        | **1.71254cd** del 21 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -661,7 +678,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.4e64f06 del 21 Jun 2023                                               |
+| Version        | 1.71254cd del 21 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -790,7 +807,7 @@ tablenos-caption-name: Tabla
 >
 >    21 Jun 2023
 >
->    **Versión** 1.4e64f06
+>    **Versión** 1.71254cd
 
 <br>
 
@@ -845,7 +862,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.4e64f06** del 21 Jun 2023                                           |
+| Versión        | **1.71254cd** del 21 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -855,9 +872,13 @@ tablenos-caption-name: Tabla
 ## Funciones del Comité
 El comité de arquitectura tiene dos funciones básicas. Es decir, lo que se espera que el comité responda es: 
 1. FUNC10. Dirimir (decisiones)
-2. FUNC11. Divulgar (resoluciones)
+1. FUNC11. Divulgar (resoluciones)
+1. FUNC13. Evaluación (arquitecturas)
 
 ### Función de Divulgar (FUNC11)
+### Función de Divulgar (FUNC12)
+### Función de Divulgar (FUNC13)
+
 
 
 ## Referencias {.page_break_before}
