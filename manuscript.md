@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-21" />
   <meta name="citation_publication_date" content="2023-06-21" />
   <meta property="article:published_time" content="2023-06-21" />
-  <meta name="dc.modified" content="2023-06-21T15:36:41+00:00" />
-  <meta property="article:modified_time" content="2023-06-21T15:36:41+00:00" />
+  <meta name="dc.modified" content="2023-06-21T17:22:58+00:00" />
+  <meta property="article:modified_time" content="2023-06-21T17:22:58+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/71254cd5a0d6712a6bd24796722e5459b1915fa7/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/71254cd5a0d6712a6bd24796722e5459b1915fa7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/71254cd5a0d6712a6bd24796722e5459b1915fa7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/359489ea23c7ebf11fd371eeb8113cbb588c3410/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/359489ea23c7ebf11fd371eeb8113cbb588c3410/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/359489ea23c7ebf11fd371eeb8113cbb588c3410/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/71254cd5a0d6712a6bd24796722e5459b1915fa7/))
+<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/359489ea23c7ebf11fd371eeb8113cbb588c3410/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@71254cd](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@359489e](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 21, 2023.
 </em></small>
 
-|    **Versión** del producto 1.71254cd de 21 Jun 2023
+|    **Versión** del producto 1.359489e de 21 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.71254cd del 21 Jun 2023 |
+| Versión        | 1.359489e del 21 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -174,7 +174,7 @@ tablenos-caption-name: Tabla
 >
 >    21 Jun 2023
 >
->    **Versión** 1.71254cd
+>    **Versión** 1.359489e
 
 <br>
 
@@ -228,7 +228,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                     |
 | Autor          |                                                                                                               |
 | Fuente         |                                                                                                               |
-| Versión        | **1.71254cd** del 21 Jun 2023                                                                          |
+| Versión        | **1.359489e** del 21 Jun 2023                                                                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -351,7 +351,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.71254cd** del 21 Jun 2023                                           |
+| Versión        | **1.359489e** del 21 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -452,7 +452,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.71254cd** del 21 Jun 2023                                           |
+| Versión        | **1.359489e** del 21 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -499,12 +499,55 @@ fignos-caption-name: Imagen
 tablenos-caption-name: Tabla
 ...
 
+| Tema           | Modelo de Gobierno SOA. v0.5: **La Oficina de Arquitectura del FNA** |
+|----------------|----------------------------------------------------------------------|
+| Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Principios |
+| Autor          |                                                                      |
+| Fuente         |                                                                      |
+| Versión        | **1.359489e** del 21 Jun 2023                                 |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
+
+<br>
+
+# La Oficina de Arquitectura del FNA
+Es la manifestación material del gobierno SOA del FNA. La oficina de arquitectura del FNA (LOAF) es el órgano ejecutvo del gobierno SOA, y por tanto, debe contar con recursos materiales (presupuesto), físicos y teóricos, tanto para su puesta en marcha, como para desplegar el gobierno en la empresa y hacerlo presencial a los proveedores de la empresa también. La oficina de arquitectura es la presencia del gobierno a lo largo (áreas) y ancho (proveedores)de la empresa.
+
+La oficina (LOAF) es quien recibe, y puede objetar, los requerimiento de arquitecura que convierte en una Declaración de Trabajo de Arquitectura (DTA) mediante métodos estándares en cumplimiento con el modelo de gobierno (ver [Modelo de Gobierno SOA del FNA: Actores, Información y Procedimientos](onenote:#N003a.com)). La objeción de un requerimiento puede ser sobreescrita o avalada por el Comité de Arquitectura (ver [Comité de Arquitectura del FNA](onenote:#N003a.com) más adelante). Inmediatamente aceptado el requerimiento, los arquitectos de cada dominio inician los análisis requeridos por el gobierno. El gobierno del FNA exige además la actaulización de los modelos, que en caso de no existir, estos deben ser levantados previo a los análisis.
+
+# Principios Rectores de la Oficina de Arquitectura del FNA
+Los principios rectores que sostienen al gobierno SOA del FNA son.
+
+* Conocimiento y compromiso: todas los involucrados deben contar con el conocimiento y experiencia (perfil de estudios) requeridos para el rol de arquitecto FNA, junto con el compromiso de conocer el gobierno y adherirse a los procedimientos, procesos y estructuras de autoridad acordados.
+
+* Transparencia: Todas las acciones implementadas y sus soportes de decisión estarán disponibles para inspección por una organización autorizada y partes proveedoras.
+* Independencia: Establecer todos los procesos, toma de decisiones y mecanismos utilizados para minimizar o evitar posibles conflictos de interés.
+* Rendición de cuentas: Los grupos identificables dentro de la organización, por ejemplo, juntas de gobierno que toman acciones o toman decisiones, están autorizados y son responsables de sus acciones.
+* Responsabilidad: Cada parte contratada está obligada a actuar de manera responsable con la organización y sus partes interesadas.
+* Equidad: No se permite que todas las decisiones tomadas, los procesos utilizados y su implementación generen ventajas injustas para ninguna de las partes en particular.
+* El gobierno de EA sobre los procesos de entrega de soluciones de TI de una organización se centra en la realización de una serie de soluciones. Éstas incluyen:
+
+Estandarización: desarrollo y promoción de estándares de TI en toda la empresa.
+Coherencia: habilite los niveles necesarios de integración e interoperabilidad de la información, los procesos y las aplicaciones.
+Reutilización: estrategias y capacidades habilitadoras que reutilizan y aprovechan los activos de TI en los niveles de diseño, implementación y cartera. Esto podría incluir consideraciones tanto de proceso/gobernanza como de depósito de activos.
+Calidad: Brindar soluciones que cumplan con los requisitos funcionales y técnicos de una empresa, con un proceso de gestión del ciclo de vida que garantice la calidad de la solución.
+Rentabilidad y eficiencia: aprovechamiento de los estándares, la reutilización y la calidad a través de procesos de gobierno de decisiones repetibles que permiten niveles reducidos del costo total del ciclo de vida de las soluciones y permiten una mejor realización de las inversiones en TI.
+
+---
+geometry:
+  - top=1in
+  - bottom=1in
+fignos-cleveref: True
+fignos-plus-name: Fig.
+fignos-caption-name: Imagen
+tablenos-caption-name: Tabla
+...
+
 | Tema           | Modelo de Gobierno SOA. v0.5: **Flujos de Trabajo Oficina de Arquitectura** |
 |----------------|--------------------------------------------------------------------------------|
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Flujo de trabajo                    |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.71254cd** del 21 Jun 2023                                           |
+| Versión        | **1.359489e** del 21 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -591,7 +634,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.71254cd** del 21 Jun 2023                                           |
+| Versión        | **1.359489e** del 21 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -678,7 +721,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.71254cd del 21 Jun 2023                                               |
+| Version        | 1.359489e del 21 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -807,7 +850,7 @@ tablenos-caption-name: Tabla
 >
 >    21 Jun 2023
 >
->    **Versión** 1.71254cd
+>    **Versión** 1.359489e
 
 <br>
 
@@ -862,12 +905,31 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.71254cd** del 21 Jun 2023                                           |
+| Versión        | **1.359489e** del 21 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
 
-# Diseño de los Procesos y Responsabilidades del Comité de Gobierno de Arquitectura FNA
+# El Comité de Arquitectura del FNA
+Otro de los instrumentos en donde se materializa el gobierno SOA, objeto de este proyecto, es el comité de revisión y de trabajos de arquitectura. El comité de arquitectura contribuye al gobierno en el sentido de que abarca aspectos de revisión, decisión, seguimiento (en menor grado) y divulgación de trabajos de arquitectura. 
+
+Es de su despacho armonizar los requisitos arquitectónicos macro del FNA, que de otra manera  divergirían o prevalecerían las opiniones en lugar de los criterios. Por esta razón, su principal objetivo (objetivo general) es garantizar que las visiones y los estándares de la oficina de arquitectura estén alineados con el gobierno SOA del FNA, y por ende, con el correcto uso del repositorio de arquitectura del FNA (RAF). 
+
+<br>
+
+## Objetivo Principal del Comité de Arquitectura del FNA (CAF)
+El objetivo principal del Comité de Arquitectura del FNA es garantizar que las visiones y los estándares de la oficina de arquitectura estén alineados con el modelo de gobierno SOA del FNA (ver [Modelo de Gobierno y CCF](onenote:#N003a.com)). 
+
+## Objetivos Específicos del CAF
+Para alcanzar el objetivo principal, los actores del comité deben perseguir, y gestionar, el logro de los siguientes objetivos específicos y beneficios.
+
+* Guiar y priorización los esfuerzos de la oficina de arquitectura
+* Ejercitar los roles y responsabilidades del gobierno SOA del FNA, y respaldar su supervisión y la rendición de cuentas de la oficina de arquitectura
+* Efectivizar el proceso de toma de decisiones sobre los trabajos de arquitectura
+* Verificar la aplicación de los métodos (procedimientos normales) de arquitectura del FNA y del gobierno SOA del FNA
+* Fomentar el uso de herramientas de publicación automatizable por audiencia de los puntos de vista de los trabajos de arquitectura
+El valor empresarial ampliado y elevado de la arquitectura en toda la empresa
+* Procurar la visibilidad de las áreas del FNA del trabajo de la oficina de arquitectura 
 
 ## Funciones del Comité
 El comité de arquitectura tiene dos funciones básicas. Es decir, lo que se espera que el comité responda es: 
@@ -879,6 +941,9 @@ El comité de arquitectura tiene dos funciones básicas. Es decir, lo que se esp
 ### Función de Divulgar (FUNC12)
 ### Función de Divulgar (FUNC13)
 
+
+
+# Diseño de los Procesos y Responsabilidades del Comité de Gobierno de Arquitectura FNA
 
 
 ## Referencias {.page_break_before}
