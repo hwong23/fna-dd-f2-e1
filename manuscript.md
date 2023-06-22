@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-06-21'
+date-meta: '2023-06-22'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
   <meta property="og:title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
   <meta property="twitter:title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
-  <meta name="dc.date" content="2023-06-21" />
-  <meta name="citation_publication_date" content="2023-06-21" />
-  <meta property="article:published_time" content="2023-06-21" />
-  <meta name="dc.modified" content="2023-06-21T19:21:53+00:00" />
-  <meta property="article:modified_time" content="2023-06-21T19:21:53+00:00" />
+  <meta name="dc.date" content="2023-06-22" />
+  <meta name="citation_publication_date" content="2023-06-22" />
+  <meta property="article:published_time" content="2023-06-22" />
+  <meta name="dc.modified" content="2023-06-22T13:23:13+00:00" />
+  <meta property="article:modified_time" content="2023-06-22T13:23:13+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/13c85df1ad7722b7c1c2c80998c2ca7f626c480c/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/13c85df1ad7722b7c1c2c80998c2ca7f626c480c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/13c85df1ad7722b7c1c2c80998c2ca7f626c480c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/1b619cb2366226a851a0643e51038e84512be7ee/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/1b619cb2366226a851a0643e51038e84512be7ee/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/1b619cb2366226a851a0643e51038e84512be7ee/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/13c85df1ad7722b7c1c2c80998c2ca7f626c480c/))
+<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/1b619cb2366226a851a0643e51038e84512be7ee/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@13c85df](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del June 21, 2023.
+[Sharepoint STEF@1b619cb](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del June 22, 2023.
 </em></small>
 
-|    **Versión** del producto 1.13c85df de 21 Jun 2023
+|    **Versión** del producto 1.1b619cb de 22 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.13c85df del 21 Jun 2023 |
+| Versión        | 1.1b619cb del 22 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -172,9 +172,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    21 Jun 2023
+>    22 Jun 2023
 >
->    **Versión** 1.13c85df
+>    **Versión** 1.1b619cb
 
 <br>
 
@@ -228,7 +228,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                     |
 | Autor          |                                                                                                               |
 | Fuente         |                                                                                                               |
-| Versión        | **1.13c85df** del 21 Jun 2023                                                                          |
+| Versión        | **1.1b619cb** del 22 Jun 2023                                                                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -354,7 +354,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.13c85df** del 21 Jun 2023                                           |
+| Versión        | **1.1b619cb** del 22 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -455,7 +455,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.13c85df** del 21 Jun 2023                                           |
+| Versión        | **1.1b619cb** del 22 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -507,7 +507,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Principios |
 | Autor          |                                                                      |
 | Fuente         |                                                                      |
-| Versión        | **1.13c85df** del 21 Jun 2023                                 |
+| Versión        | **1.1b619cb** del 22 Jun 2023                                 |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -557,7 +557,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Flujo de trabajo                    |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.13c85df** del 21 Jun 2023                                           |
+| Versión        | **1.1b619cb** del 22 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -646,7 +646,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.13c85df** del 21 Jun 2023                                           |
+| Versión        | **1.1b619cb** del 22 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -733,7 +733,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.13c85df del 21 Jun 2023                                               |
+| Version        | 1.1b619cb del 22 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -757,7 +757,7 @@ _Fuente: elaboración propia._
 
 <br>
 
-## Gestión del cambio e impacto (incepción)
+## Gestión del Cambio e Impacto (incepción)
 Es la definición del alcance del reajuste en la arquitectura, distinto a un cambio en una aplicación, sistema de información, datos o plataforma del FNA. el cambio a gestionar debe ser analizado desde la perspectiva de la arquitectura actual o candidata. En este sentido, el cambio es descrito en términos del qué, dónde, quién y cómo cambiar la arquitectura SOA del Fondo.
 
 Una entrada razonable de este paso es la discución mediante vistas de la potencialidad del cambio (dificultades y beneficios) y las preocupaciones de los interesados, gerentes y dueños de procesos / productos. Es ncesario a veces complementar o contrastar el cambio con otros requerimientos.
@@ -766,7 +766,7 @@ El resultado o salida de este paso es el bosquejo de la adaptación, que son las
 
 Como herramienta para la realización de este paso del proceso presentamos un ficha de descripción del evento de cambio.
 
-## Evaluación y alistamiento (madurez)
+## Evaluación y Alistamiento (madurez)
 El proceso de alistamiento, devenido de TOGAF, y adaptado al contexto del FNA, no es más que listar los requisitos de información y hechos neesarios para aprobar el cambio de las arquitectura del Fondo.
 
 
@@ -859,9 +859,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    21 Jun 2023
+>    22 Jun 2023
 >
->    **Versión** 1.13c85df
+>    **Versión** 1.1b619cb
 
 <br>
 
@@ -915,7 +915,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.13c85df** del 21 Jun 2023                                           |
+| Versión        | **1.1b619cb** del 22 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -985,7 +985,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.13c85df** del 21 Jun 2023                                           |
+| Versión        | **1.1b619cb** del 22 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -994,6 +994,66 @@ tablenos-caption-name: Tabla
 La bitácora de decisiones es una herramienta para gestionar la toma de decisiones de arquitectura. Por tal razón, estructurar y genera gestión seguimiento, (versión y trazabilidad) a las discusiones de la oficina de arquitectura del FNA. El objetivo de esta herramienta es el de consensuar a todos los arquitectos alrededor del mismo contexto, problema, restricciones, conveniencia (pro/con), alternativas y opciones de solución.
 
 ## Consideraciones para Operar la Bitácora
+
+### Formato para la Bitácora de Arquitectura (ARD)
+La bitácora de decisiones de arquitectura (BDA) es una herramienta para ejercitar el proceso de toma de decisiones de la oficina. La bitácora estructura y sigue (versión y trazabilidad) las discusiones de la oficina de arquitectura del FNA. Cumple el objetivo de materializar el consenso entre los arquitectos elevándolo a un grado oficial, al tiempo que reune a la oficina alrededor del mismo contexto, problema, restricciones, conveniencia (pro/con), alternativas y opciones de solución.
+
+Existen muchas plantillas para esta herramienta. Proponemos la siguiente.
+
+### Especificaciones
+* Tipo de contenido: texto
+* Documento versionado
+* Referencias a partes y elementos del modelo
+* Referencias a imágenes y contenidos del repositorio de arquitectura FNA
+
+### Formato
+* Título: El título siempre comienza con la fecha en formato AAAA-MM-DD siempre que contenga una descripción concisa de lo que trata el ADR. Y encontrar una buena descripción no siempre es tan fácil: como todos sabemos, nombrar cosas es una de las dos cosas difíciles en informática, así que tómate tu tiempo y piensa un poco en ello. Tu futuro te lo agradecerá después. El formato de fecha se elige de modo que el orden alfabético también sea el orden de fecha correcto.
+
+* Participantes: Esta es simplemente una lista de personas que participaron en esta discusión. Esto es útil porque ayuda a aclarar preguntas como "¿pero le preguntaste a un desarrollador de aplicaciones?" o “¿estuvo involucrada la gestión de productos en esta decisión?”. Dos días después puede que lo recuerdes. Dos meses después probablemente no.
+
+* Estado: Tenemos cuatro estados diferentes en los que un ADR puede ser:
+  - Abierto: Se ha registrado como un problema, es posible que aún falte información y aún no se ha iniciado la discusión.
+  - En Progreso: La discusión continúa actualmente.
+  - RFC: se ha recopilado toda la información necesaria, se ha tomado una decisión propuesta y ahora todos pueden comentarla ("Solicitud de comentarios").
+  - Decidido: este es el estado final: cuando se tomó y registró una decisión y todos tuvieron la oportunidad justa de proporcionar comentarios. Después de eso, el ADR se cierra. Se considera una mala práctica modificar las ADR más adelante. Sin embargo, lo que hago de vez en cuando es agregar a las ADR si hay nueva información disponible.
+
+* Situación: Aquí describimos la situación actual usando solo hechos. ¿Que estamos haciendo? ¿Cuál es el contexto de esta decisión? ¿Cuáles son las premisas y supuestos para que se sostenga esta decisión? Si es necesario, mencione también lo que explícitamente no está dentro del alcance. Tenga mucho cuidado de no hablar de problemas o soluciones en esta sección, se tratarán por separado.
+
+* Problema: ¿Cuál es el problema que surge de este contexto que ahora debemos resolver y donde se necesita una decisión arquitectónica? ¿Qué complica el problema? ¿Cuáles son las consecuencias? Este ejercicio le ayudará a formular el problema real para sus usuarios y evitar que la solución técnica dicte su problema.
+
+* Opciones: Para cada opción, describimos brevemente la solución propuesta, sus implicaciones, pros y contras. También siempre agrego una opción de "No hacer nada". Esto ayuda a señalar las consecuencias que suceden si mantienes todo como está. Es posible que descubra que podría ser aceptable no hacer nada, o podría ayudarlo a señalar a la gerencia por qué un problema necesita atención inmediata. También siempre agrego explícitamente opciones que obviamente no haremos. Solo agregarlos como una opción a los ADR no significa que estemos considerando hacerlo. Pero ayuda documentar que ha considerado todas las opciones y deliberadamente elige no elegirla. También ayuda responder "Oye, ¿por qué no usamos xyz" más tarde?
+
+* Decisión: ¿Qué opción se ha elegido finalmente? Si se ha tomado una decisión final, la marcamos también como la opción elegida en la sección de “opciones”. Una decisión también puede ser que dependa de la tribu elegir entre diferentes opciones (es decir, no vemos consecuencias negativas al elegir una u otra o que diferentes tribus elijan diferentes soluciones).
+
+* Continuidad: hasta que el ADR alcance el estado "Decidido", nos aseguramos de que el ADR registre quién debe hacer qué a continuación (por ejemplo, Alice investigará si el uso de FooService proporciona un punto final de Bar). Como es una buena práctica con cada elemento de acción, le asignamos un nombre y una fecha.
+
+* Temporalidad: un registro simple que contiene una entrada para cada transición de estado y modificación (significativa) del documento. También anunciamos aquí cuándo finalizará el RFC.
+
+*** 
+
+
+---
+geometry:
+  - top=1in
+  - bottom=1in
+fignos-cleveref: True
+fignos-plus-name: Fig.
+fignos-caption-name: Imagen
+tablenos-caption-name: Tabla
+...
+| Tema           | Comité de Arquitectura del FNA: **Métodos de evaluación de arquitecturas para el FNA** |
+|----------------|--------------------------------------------------------------------------------|
+| Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
+| Autor          |                                                                                |
+| Fuente         |                                                                                |
+| Versión        | **1.1b619cb** del 22 Jun 2023                                           |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
+
+<br>
+
+# Métodos de Evaluación de Arquitecturas para el FNA
+El Comité de arquitectura tiene la función de evaluación de arquitecturas. Para ello, los involucrados del FNA del comité podrán aplicar el siguiente método abrviado de evaluación de arquitectura (basado en ATAM, Open Group).
+
 
 
 # Referencias {.page_break_before}
