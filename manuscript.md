@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-06-23'
+date-meta: '2023-06-24'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
   <meta property="og:title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
   <meta property="twitter:title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
-  <meta name="dc.date" content="2023-06-23" />
-  <meta name="citation_publication_date" content="2023-06-23" />
-  <meta property="article:published_time" content="2023-06-23" />
-  <meta name="dc.modified" content="2023-06-23T22:18:54+00:00" />
-  <meta property="article:modified_time" content="2023-06-23T22:18:54+00:00" />
+  <meta name="dc.date" content="2023-06-24" />
+  <meta name="citation_publication_date" content="2023-06-24" />
+  <meta property="article:published_time" content="2023-06-24" />
+  <meta name="dc.modified" content="2023-06-24T18:26:58+00:00" />
+  <meta property="article:modified_time" content="2023-06-24T18:26:58+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/8a116704cfc2d05724352c32679e1f5d483b688c/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/8a116704cfc2d05724352c32679e1f5d483b688c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/8a116704cfc2d05724352c32679e1f5d483b688c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/4c597378bb970a22c93ed5b0d7c6f805ebc3df33/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/4c597378bb970a22c93ed5b0d7c6f805ebc3df33/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/4c597378bb970a22c93ed5b0d7c6f805ebc3df33/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/8a116704cfc2d05724352c32679e1f5d483b688c/))
+<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/4c597378bb970a22c93ed5b0d7c6f805ebc3df33/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@8a11670](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del June 23, 2023.
+[Sharepoint STEF@4c59737](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del June 24, 2023.
 </em></small>
 
-|    **Versión** del producto 1.8a11670 de 23 Jun 2023
+|    **Versión** del producto 1.4c59737 de 24 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.8a11670 del 23 Jun 2023 |
+| Versión        | 1.4c59737 del 24 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -172,9 +172,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    23 Jun 2023
+>    24 Jun 2023
 >
->    **Versión** 1.8a11670
+>    **Versión** 1.4c59737
 
 <br>
 
@@ -228,7 +228,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                                                     |
 | Autor          |                                                                                                               |
 | Fuente         |                                                                                                               |
-| Versión        | **1.8a11670** del 23 Jun 2023                                                                          |
+| Versión        | **1.4c59737** del 24 Jun 2023                                                                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -240,7 +240,7 @@ Los resultados de la consultoría E-Service, Fase I, 2022 señalan la _necesidad
 # Modelo de Gobierno SOA del FNA: Actores, Información y Procedimientos
 El gobierno SOA del FNA, objeto de este proyecto, tiene impacto general en la empresa. Sin embargo, se desarrolla desde un centro condicionado por el alcance de este proyecto. Esta versión del Gobierno SOA del FNA nace en las partes e ítems de la arquitectura de software y de servicios del FNA consignadas en la vista de segmento de la empresa (ver Vista de Contextual, segmento de la empresa, [PR01. E-Service, Fase II](https://https://stefaninilatam.sharepoint.com/SitePages/Home.aspx/fna-dd-f2-pry1/manuscript.pdf)) pero no se agota ahí porque es necesario extenderlo a actores, interesados, usuarios y entidades relacionados con las partes de la arquitectura del FNA contenidas en la vista de segmento.
 
-A cotinuación presentamos el modelo base de gobierno de arquiteturas SOA para el FNA, primera edición, versión 0.1.
+A cotinuación presentamos el modelo base de gobierno de arquiteturas SOA para el FNA primera edición, versión 0.1, la manera cómo ha evolucionado en el FNA, y sus elementos de gobierno, los actores, la información que deben generar y las funciones que este postula.
 
 # Modelo de Gobierno SOA del FNA. Versión 0.2
 La versión inicial del modelo de Gobierno SOA del FNA, propuesto en la Fase I de E-Service establece apenas las bases de lo que debe ser un marco de trabajo para gobierno SOA del FNA. Esta versión hace foco en un asunto general: _responder y gestionar la evolutición de la arquitectura de referencia SOA actual del Fondo Nacional del Ahorro_, y deja para siguientes versiones de este marco de trabajo de gobierno SOA la inclusión de otras problemáticas que demanden mayor gobierno.
@@ -263,44 +263,61 @@ _Fuente: Elaboración propia._
 <br>
 
 ## Elementos del Modelo de Gobierno, versión 0.5
-Descripción de los elementos del modelo de gobierno.
+Los elementos que describiremos del gobierno de las arquitecturas del FNA en este capítulo son los mínimos que permiten el funcionamiento de esta versión. Definimos Definimos tres categorías con las que organizamos la lista de esos elementos: actores, información y  funciones.
 
-| Nombre| Tipo| Descripción| Propds.
-|:--------|:--------|:--------|:--------|
-|**Bitácora Arquitectura**|application-component|La bitácora de decisiones de arquitectura (ADR, por sus siglas en ingés) es una herramienta para ejercitar el proceso de toma de decisiones de la oficina. Mediante esta es posible estructurar y hacer seguimiento (versión y trazabilidad) a las discusiones de la oficina de arquitectura del FNA. Cumple el objetivo de materializar el consenso elevándolo a un grado oficial, al tiempo que reune a los arquitectos alrededor del mismo contexto, problema, restricciones, conveniencia (pro/con), alternativas y opciones de solución.||
-|**Documentación Técnica**|application-component|||
-|**Gestor de Requerimientos de arquitectura**|application-component|||
-|**Modelo Arquitectura**|application-component|||
-|**Repositorio Análisis**|application-component|||
-|**Repositorio SOA**|application-component|||
-|**Arquitectura FNA</div>Mega**|application-interaction|||
-|**Especificaciones**|artifact|||
-|**Especificaciones**|artifact|Métricas, conclusiones, decisiones<br>||
-|**Especificaciones (copy)**|artifact|||
-|**ALS01. Complejidad**|assessment|||
-|**ALS02. Impacto**|assessment|||
-|**ALS03. Costo / Beneficio**|assessment|||
-|**ALS04. Específicos***|assessment|||
-|**Evento de cambio arquitectura SOA**|business-event|Sucede un evento en que la arquitectura SOA, o alguna de los componentes de la arquitectura de referencia del FNA es imputado por un cambio. El cambio puede ser motivado por un requerimiento de arquitectura (TOGAF), una necesidad de negocio, o la adquisición de infraestructura (inversión de TI).||
-|**Arquitectura Empresarial FNA**|business-interaction|||
-|**Comité de Cambios FNA**|business-interaction|||
-|**Comité de arquitectura FNA**|business-interaction|||
-|**Gobierno TI FNA**|business-interaction|||
-|**Oficina Arquitectura FNA**|business-interaction|La ofifina de arquitetura del FNA (LOAF) recibe (y puede objetar) el requerimiento de arquitecura.  La objeción de un requerimiento puede ser discutido por el Comité de Arquitectura. Inmediatamente aceptado el requerimiento, los arquitectos en cada dominio deben iniciar los análisis sobre modelos. Si no existe modelos, estos deben ser realizados previo a los análisis.<br>||
-|**Caso Uso de Negocio**|business-object|||
-|**Inversión TI**|business-object|||
-|**Requerimiento de Arquitectura**|business-object|||
-|**Contrato de Gobierno SOA FNA**|contract|||
-|**Declaración Trabajo Arquitectura**|contract|La declaración de trabajo de arquitectura define el alcance y el enfoque que se utilizará para completar un ciclo de desarrollo de arquitectura (ver flujo de trabajo de oficina de arquitectura FNA). Debe contener los elementos contra los que se medirá la ejecución exitosa del proyecto/cambio de arquitectura. Es además el insumo para los acuerdos contractuales entre el proveedor y la empresa.||
-|**Requerimiento**|contract|||
-|**Requerimiento**|contract|||
-|**Requerimiento**|contract|||
-|**Decisión**|data-object|||
-|**Decisión (copy)**|data-object|||
-|**Decisión Arq.**|data-object|||
+Descripción de los elementos del modelo de gobierno, y categorías en las que están organizados.
 
+| Nombre                                       | Tipo                    | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|----------------------------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Bitácora Arquitectura**                    | application-component   | La bitácora de decisiones de arquitectura (ADR, por sus siglas en ingés) es una herramienta para ejercitar el proceso de toma de decisiones de la oficina. Mediante esta es posible estructurar y hacer seguimiento (versión y trazabilidad) a las discusiones de la oficina de arquitectura del FNA. Cumple el objetivo de materializar el consenso elevándolo a un grado oficial, al tiempo que reune a los arquitectos alrededor del mismo contexto, problema, restricciones, conveniencia (pro/con), alternativas y opciones de solución. |
+| **Documentación Técnica**                    | application-component   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Gestor de Requerimientos de arquitectura** | application-component   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Modelo Arquitectura**                      | application-component   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Repositorio Análisis**                     | application-component   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Repositorio SOA**                          | application-component   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **GOB04. Repositorio Artefactos FNA <>**     | application-interaction |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| Nombre                                       | Tipo                    | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|----------------------------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Especificaciones**                         | artifact                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Especificaciones**                         | artifact                | Métricas, conclusiones, decisiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Especificaciones (copy)**                  | artifact                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| Nombre                                       | Tipo                    | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|----------------------------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **ALS01. Complejidad**                       | assessment              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **ALS02. Impacto**                           | assessment              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **ALS03. Costo / Beneficio**                 | assessment              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **ALS04. Específicos***                      | assessment              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| Nombre                                       | Tipo                    | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|----------------------------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Arquitectura Empresarial FNA**             | business-interaction    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Comité de Cambios FNA**                    | business-interaction    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Comité de arquitectura FNA**               | business-interaction    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Gobierno TI FNA**                          | business-interaction    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Oficina Arquitectura FNA**                 | business-interaction    | Es la manifestación material del gobierno SOA del FNA. La oficina de arquitectura es el órgano ejecutvo del gobierno SOA, y por tanto, debe contar con recursos materiales (presupuesto), físicos y teóricos, tanto para su puesta en marcha, como para desplegar el gobierno en la empresa y hacerlo presencial a los proveedores de la empresa también. La oficina de arquitectura es la presencia del gobierno a lo largo (áreas) y ancho (proveedores)de la empresa.                                                                      |
+| **Evento de cambio arquitectura SOA**        | business-event          | Sucede un evento en que la arquitectura SOA, o alguna de los componentes de la arquitectura de referencia del FNA es imputado por un cambio. El cambio puede ser motivado por un requerimiento de arquitectura (TOGAF), una necesidad de negocio, o la adquisición de infraestructura (inversión de TI).                                                                                                                                                                                                                                      |
+
+| Nombre                                       | Tipo                    | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|----------------------------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Caso Uso de Negocio**                      | business-object         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Inversión TI**                             | business-object         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Requerimiento de Arquitectura**            | business-object         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| Nombre                                       | Tipo                    | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|----------------------------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Contrato de Gobierno SOA FNA**             | contract                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Declaración Trabajo Arquitectura**         | contract                | La declaración de trabajo de arquitectura define el alcance y el enfoque que se utilizará para completar un ciclo de desarrollo de arquitectura (ver flujo de trabajo de oficina de arquitectura FNA). Debe contener los elementos contra los que se medirá la ejecución exitosa del proyecto/cambio de arquitectura. Es además el insumo para los acuerdos contractuales entre el proveedor y la empresa.                                                                                                                                    |
+| **Requerimiento**                            | contract                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Requerimiento**                            | contract                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Requerimiento**                            | contract                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Decisión**                                 | data-object             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Decisión (copy)**                          | data-object             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Decisión Arq.**                            | data-object             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+<br>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | junction                |
 <div style="page-break-before: always;"></div>
-
 <br>
 
 ## Bitácora de Decisiones de Arquitectura
@@ -354,7 +371,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.8a11670** del 23 Jun 2023                                           |
+| Versión        | **1.4c59737** del 24 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -455,7 +472,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)_
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.8a11670** del 23 Jun 2023                                           |
+| Versión        | **1.4c59737** del 24 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -507,7 +524,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Principios |
 | Autor          |                                                                      |
 | Fuente         |                                                                      |
-| Versión        | **1.8a11670** del 23 Jun 2023                                 |
+| Versión        | **1.4c59737** del 24 Jun 2023                                 |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -557,7 +574,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Flujo de trabajo                    |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.8a11670** del 23 Jun 2023                                           |
+| Versión        | **1.4c59737** del 24 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -671,7 +688,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.8a11670** del 23 Jun 2023                                           |
+| Versión        | **1.4c59737** del 24 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -758,7 +775,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.8a11670 del 23 Jun 2023                                               |
+| Version        | 1.4c59737 del 24 Jun 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -884,9 +901,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    23 Jun 2023
+>    24 Jun 2023
 >
->    **Versión** 1.8a11670
+>    **Versión** 1.4c59737
 
 <br>
 
@@ -940,7 +957,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.8a11670** del 23 Jun 2023                                           |
+| Versión        | **1.4c59737** del 24 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -1020,7 +1037,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.8a11670** del 23 Jun 2023                                           |
+| Versión        | **1.4c59737** del 24 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -1081,7 +1098,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.8a11670** del 23 Jun 2023                                           |
+| Versión        | **1.4c59737** del 24 Jun 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
