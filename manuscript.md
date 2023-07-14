@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-14" />
   <meta name="citation_publication_date" content="2023-07-14" />
   <meta property="article:published_time" content="2023-07-14" />
-  <meta name="dc.modified" content="2023-07-14T18:50:07+00:00" />
-  <meta property="article:modified_time" content="2023-07-14T18:50:07+00:00" />
+  <meta name="dc.modified" content="2023-07-14T18:54:54+00:00" />
+  <meta property="article:modified_time" content="2023-07-14T18:54:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/5303c9f833f331e1a2e67870cf82eb12a362379e/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/5303c9f833f331e1a2e67870cf82eb12a362379e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/5303c9f833f331e1a2e67870cf82eb12a362379e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/e37b48990c11872bf091475ac2b748494daa4af7/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/e37b48990c11872bf091475ac2b748494daa4af7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/e37b48990c11872bf091475ac2b748494daa4af7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/5303c9f833f331e1a2e67870cf82eb12a362379e/))
+<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/e37b48990c11872bf091475ac2b748494daa4af7/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@5303c9f](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@e37b489](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 14, 2023.
 </em></small>
 
-|    **Versión** del producto 1.5303c9f de 14 Jul 2023
+|    **Versión** del producto 1.e37b489 de 14 Jul 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.5303c9f del 14 Jul 2023 |
+| Versión        | 1.e37b489 del 14 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -176,7 +176,7 @@ tablenos-caption-name: Tabla
 >
 >    14 Jul 2023
 >
->    **Versión** 1.5303c9f
+>    **Versión** 1.e37b489
 
 <br>
 
@@ -233,7 +233,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                         |
 | Autor          |                                                                                   |
 | Fuente         |                                                                                   |
-| Versión        | **1.5303c9f** del 14 Jul 2023                                              |
+| Versión        | **1.e37b489** del 14 Jul 2023                                              |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -281,7 +281,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.5303c9f** del 14 Jul 2023                                           |
+| Versión        | **1.e37b489** del 14 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -512,7 +512,7 @@ Otra función de esta capacidad es la normalización de la publicación y el uso
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.5303c9f** del 14 Jul 2023                                           |
+| Versión        | **1.e37b489** del 14 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -564,7 +564,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Principios |
 | Autor          |                                                                      |
 | Fuente         |                                                                      |
-| Versión        | **1.5303c9f** del 14 Jul 2023                                 |
+| Versión        | **1.e37b489** del 14 Jul 2023                                 |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -614,7 +614,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Flujo de trabajo |
 | Autor          |                                                             |
 | Fuente         |                                                             |
-| Versión        | **1.5303c9f** del 14 Jul 2023                        |
+| Versión        | **1.e37b489** del 14 Jul 2023                        |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -760,13 +760,13 @@ El repositorio de arquitectura es el depósito visible de todos los activos mode
 Las reglas de edición deben ser extendidas o removidas en la medida necesaria. La Oficina de rquitectura del FNA es la responsable de esta actividad.
 
 ## Punto de Control 2. Verificación Diseño - Implementación
-La actividad ADM Gobierno Cambio 001 (actividad no. 5.0 y 5.1 en el diagrama [Flujo de Trabajo Oficina de Arquitectura Proveedores (FLUJ02)]) del flujo de colaboración/implementación es la llamada a realizar este control. Además de las actividades que se llevan a cabo en el interno de esta, debe realizar además las labores de verificación de la implementación siguiendo para ellos los mecanismos, y usando los dispoitovos de control que la Oficina de Arquitetura del Fondo disponga para este propósito.
+La actividad ADM Gobierno Cambio 001 (actividad no. 5.0 y 5.1 en el diagrama [Flujo de Trabajo Oficina de Arquitectura Proveedores (FLUJ02)]) del flujo de colaboración/implementación es la llamada a realizar este control.
+
+Además de las actividades que se llevan a cabo en el interno de la actividad referida, en esta se deben realizar las labores de verificación de la implementación. Esto se da cuando el arquitecto FNA involucrado en la corrida de este flujo constata la presencia del diseño durante la construcción correspondiente, o en su implementación resultante. Para el efecto, el arquitecto debe seguir los mecanismos, y usar los dispoitovos de control que la Oficina de Arquitetura del Fondo haya dispuesto para este propósito.
 
 ## Punto de Control 3. Seguimiento de Cambios en los modelos
+El seguimiento se los cambios consiste en la vertificación de que los diseños permanezcan vigentes ante las novedades y nuevas decisiones sucedidas en la construcción.
 
-* **Fragmentación**. Equipos de arquitectura sepadaros en distintas empresas, grupos o divisiones físicas o administrativas y con poca o nada comunicación.
-* **Aislammiento**. Áreas de arquitectura trabajando de manera solitaria crean y usan diferentes estilos, estándares, relacionamiento y niveles de detalle de modelamiento.
-* **Desapropiamiento**. La falta de autoría de los modelos, de los niveles de detalles y de las decisiones de soporte afecta a los equipos de arquitectura, así como a externos, que no saben a quién dirigirse para entender estos activos.
 
 ![PUntos de control del flujo de colaboración entre oficinas de arquitctura para el FNA. Los puntos de control van dirigidos principalmente a trata el problema de los incumplimientos de diseño en las implementaciones.](images/pcontrol.png){#fig: width=}
 
@@ -793,7 +793,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.5303c9f** del 14 Jul 2023                                           |
+| Versión        | **1.e37b489** del 14 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -922,7 +922,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.5303c9f del 14 Jul 2023                                               |
+| Version        | 1.e37b489 del 14 Jul 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -968,7 +968,7 @@ El proceso de alistamiento, devenido de TOGAF, y adaptado al contexto del FNA, n
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                          |
 | Autor          |                                                                    |
 | Fuente         |                                                                    |
-| Versión        | **1.5303c9f** del 14 Jul 2023                               |
+| Versión        | **1.e37b489** del 14 Jul 2023                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -1065,7 +1065,7 @@ tablenos-caption-name: Tabla
 >
 >    14 Jul 2023
 >
->    **Versión** 1.5303c9f
+>    **Versión** 1.e37b489
 
 <br>
 
@@ -1123,7 +1123,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI  |
 | Autor          |                                                                  |
 | Fuente         |                                                                  |
-| Versión        | **1.5303c9f** del 14 Jul 2023                             |
+| Versión        | **1.e37b489** del 14 Jul 2023                             |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -1208,7 +1208,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.5303c9f** del 14 Jul 2023                                           |
+| Versión        | **1.e37b489** del 14 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -1277,7 +1277,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.5303c9f** del 14 Jul 2023                                           |
+| Versión        | **1.e37b489** del 14 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
