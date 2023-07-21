@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-07-14'
+date-meta: '2023-07-21'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
   <meta property="og:title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
   <meta property="twitter:title" content="Modelo de Gobierno. Detalle de los recursos, herramientas, roles y participantes del gobierno SOA" />
-  <meta name="dc.date" content="2023-07-14" />
-  <meta name="citation_publication_date" content="2023-07-14" />
-  <meta property="article:published_time" content="2023-07-14" />
-  <meta name="dc.modified" content="2023-07-14T18:54:54+00:00" />
-  <meta property="article:modified_time" content="2023-07-14T18:54:54+00:00" />
+  <meta name="dc.date" content="2023-07-21" />
+  <meta name="citation_publication_date" content="2023-07-21" />
+  <meta property="article:published_time" content="2023-07-21" />
+  <meta name="dc.modified" content="2023-07-21T02:02:39+00:00" />
+  <meta property="article:modified_time" content="2023-07-21T02:02:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/e37b48990c11872bf091475ac2b748494daa4af7/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/e37b48990c11872bf091475ac2b748494daa4af7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/e37b48990c11872bf091475ac2b748494daa4af7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/8999aebacd42e405bddb6327e2d7215a2281129c/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/8999aebacd42e405bddb6327e2d7215a2281129c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/8999aebacd42e405bddb6327e2d7215a2281129c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/e37b48990c11872bf091475ac2b748494daa4af7/))
+<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/8999aebacd42e405bddb6327e2d7215a2281129c/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@e37b489](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del July 14, 2023.
+[Sharepoint STEF@8999aeb](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del July 21, 2023.
 </em></small>
 
-|    **Versión** del producto 1.e37b489 de 14 Jul 2023
+|    **Versión** del producto 1.8999aeb de 21 Jul 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.e37b489 del 14 Jul 2023 |
+| Versión        | 1.8999aeb del 21 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -174,9 +174,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    14 Jul 2023
+>    21 Jul 2023
 >
->    **Versión** 1.e37b489
+>    **Versión** 1.8999aeb
 
 <br>
 
@@ -233,7 +233,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                         |
 | Autor          |                                                                                   |
 | Fuente         |                                                                                   |
-| Versión        | **1.e37b489** del 14 Jul 2023                                              |
+| Versión        | **1.8999aeb** del 21 Jul 2023                                              |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -281,7 +281,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.e37b489** del 14 Jul 2023                                           |
+| Versión        | **1.8999aeb** del 21 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -512,7 +512,7 @@ Otra función de esta capacidad es la normalización de la publicación y el uso
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.e37b489** del 14 Jul 2023                                           |
+| Versión        | **1.8999aeb** del 21 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -564,15 +564,15 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Principios |
 | Autor          |                                                                      |
 | Fuente         |                                                                      |
-| Versión        | **1.e37b489** del 14 Jul 2023                                 |
+| Versión        | **1.8999aeb** del 21 Jul 2023                                 |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
 
 # La Oficina de Arquitectura del FNA
-Es la manifestación material del gobierno SOA del FNA. La oficina de arquitectura del FNA (LOAF) es el órgano ejecutvo del gobierno SOA, y por tanto, debe contar con recursos materiales (presupuesto), físicos y teóricos, tanto para su puesta en marcha, como para desplegar el gobierno en la empresa y hacerlo presencial a los proveedores de la empresa también. La oficina de arquitectura es la presencia del gobierno a lo largo (áreas) y ancho (proveedores)de la empresa.
+Es la manifestación material del gobierno SOA del FNA. La oficina de arquitectura del FNA (LOAF) es el órgano ejecutvo del gobierno SOA, y por tanto, debe contar con recursos materiales (presupuesto), físicos, procedimentales y teóricos, tanto para su puesta en marcha, como para desplegar el gobierno en la empresa y hacerlo presencial a los proveedores de la empresa también. La oficina de arquitectura es la presencia del gobierno a lo largo (áreas) y ancho (proveedores)de la empresa.
 
-La oficina (LOAF) es quien recibe, y puede objetar, los requerimiento de arquitecura que convierte en una Declaración de Trabajo de Arquitectura (DTA) mediante métodos estándares en cumplimiento con el modelo de gobierno (ver [Modelo de Gobierno SOA del FNA: Actores, Información y Procedimientos](onenote:#N003a.com)). La objeción de un requerimiento puede ser sobreescrita o avalada por el Comité de Arquitectura (ver [Comité de Arquitectura del FNA](onenote:#N003a.com) más adelante). Inmediatamente aceptado el requerimiento, los arquitectos de cada dominio inician los análisis requeridos por el gobierno. El gobierno del FNA exige además la actaulización de los modelos, que en caso de no existir, estos deben ser levantados previo a los análisis.
+La oficina (en adelante, LOAF) es aquella que recibe, y puede objetar, los requerimiento de arquitecura que en su momento convierte en una Declaración de Trabajo de Arquitectura (DTA) mediante métodos estándares seleccionados en cumplimiento con el modelo de gobierno (ver [Modelo de Gobierno SOA del FNA: Actores, Información y Procedimientos](onenote:#N003a.com)). La objeción de un requerimiento puede ser sobreescrita o avalada por el Comité de Arquitectura (ver [Comité de Arquitectura del FNA](onenote:#N003a.com) más adelante). Inmediatamente aceptado el requerimiento, los arquitectos de cada dominio involucrados con la oficina inician los análisis requeridos por el gobierno (ver [Análisis Mínimos Exigidos por Gobierno SOA FNA](https://stefaninilatam.sharepoint.com/SitePages/Home.aspx)). El gobierno del FNA exige además la actaulización de los modelos, que en caso de no existir, estos deben ser levantados previo a los análisis.
 
 # Principios Rectores de la Oficina de Arquitectura del FNA
 Los principios rectores que sostienen al gobierno SOA del FNA son.
@@ -586,7 +586,6 @@ Los principios rectores que sostienen al gobierno SOA del FNA son.
 * PRNC04. Cumplimiento de Directiva de Arquitectura. Por sobre todas las cosas, la oficina de arquitectura debe cumnplir con la realización de los siguientes políticas.
 
 ## Políticas de la Oficina de Arquitectura del FNA
-
 1. Estandarización. Desarrollo, promoción aplicación de estándares de diseño de servicios, componentes, y soluciones en toda la empresa.
 
 1. Coherencia. Validación y aplicación de los estándares y herramientas, en igual medida, en los diseños de servicios, componentes y soluciones de la empresa.
@@ -614,7 +613,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Flujo de trabajo |
 | Autor          |                                                             |
 | Fuente         |                                                             |
-| Versión        | **1.e37b489** del 14 Jul 2023                        |
+| Versión        | **1.8999aeb** del 21 Jul 2023                        |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -632,7 +631,7 @@ Para cubrir los casos más significativos del análisis de susceptibilidad de go
 1. Correspondencia complejidad - diseño
 1. Débil (o inexistente) procedimiento de evaluación de inversión​
 1. Débil (o inexistente) formalidad para el cálculo de eficacia un inversión​ TI, proveedores
-1. Normnalizar registro de resultados de las entregas de proveedores​ (confiabilidad)
+1. Normalizar registro de resultados de las entregas de proveedores​ (confiabilidad)
 1. Asignación de responsables de gestión de las inversiones de TI
 
 <br>
@@ -644,9 +643,9 @@ Existen tres problemáticas exclusivas de la creación de modelos, a las cuales 
 
 Son señales de problemas de colaboración en el modelamiento de arquitectura
 
-* **Fragmentación**. Equipos de arquitectura sepadaros en distintas empresas, grupos o divisiones físicas o administrativas y con poca o nada comunicación.
-* **Aislammiento**. Áreas de arquitectura trabajando de manera solitaria crean y usan diferentes estilos, estándares, relacionamiento y niveles de detalle de modelamiento.
-* **Desapropiamiento**. La falta de autoría de los modelos, de los niveles de detalles y de las decisiones de soporte afecta a los equipos de arquitectura, así como a externos, que no saben a quién dirigirse para entender estos activos.
+* **Fragmentación**. Equipos de arquitectura separados en distintas empresas, grupos o divisiones físicas o administrativas y con poca o nada comunicación mediada por lenguajes informales, no por diseños.
+* **Aislamiento**. Áreas de arquitectura trabajando de manera solitaria crean y usan diferentes estilos, estándares, relacionamiento y niveles de detalle en el modelamiento.
+* **Desapropiación**. La falta de autoría de los modelos: aquel que reclama la propiedad de la información de arquitectura de los modelos, de los niveles de detalles y de las decisiones de soporte, afecta a los equipos de arquitectura, así como a externos, que no saben a quién dirigirse para entender estos activos.
 
 <br>
 
@@ -703,22 +702,22 @@ Una variante del flujo de trabajo arquitectura ADM, y más sgnificativa para el 
 ### Catálogo de Elementos del Flujo de Trabajo 
 
 | Nombre                                         | Tipo                      | Descripción                                                                                                         |
-|:-----------------------------------------------|:--------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| **ADM Gobierno Cambio 001**                    | application-collaboration |                                                                                                                     |
-| **ADM Implementación Cambio 001**              | application-collaboration |                                                                                                                     |
-| **ADM Preliminar Cambio 001**                  | application-collaboration |                                                                                                                     |
-| **GOB03. Modelamiento**                        | application-collaboration |                                                                                                                     |
-| **GOB04. Repositorio Artefactos FNA <<Mega>>** | application-interaction   |                                                                                                                     |
-| **Aplicaciones**                               | application-process       |                                                                                                                     |
-| **Datos**                                      | application-process       |                                                                                                                     |
-| **Infraestructura**                            | application-process       |                                                                                                                     |
-| **Inversion TI**                               | application-process       |                                                                                                                     |
-| **Servicios**                                  | application-process       |                                                                                                                     |
-| **Actores Áreas FNA**                          | business-actor            |                                                                                                                     |
-| **Arquitecto FNA**                             | business-actor            |                                                                                                                     |
-| **Arquitecto Solución**                        | business-actor            |                                                                                                                     |
-| **GOB01. Colaboración entre Oficinas**         | business-collaboration    |                                                                                                                     |
-| **Análisis**                                   | data-object               | Análisis de impacto, complejidad, plan de cambios, estimaciones, costo / b. <br>                                    |
+|:-----------------------------------------------|:--------------------------|:---|
+| **ADM Gobierno Cambio 001**                    | application-collaboration |    |
+| **ADM Implementación Cambio 001**              | application-collaboration |    |
+| **ADM Preliminar Cambio 001**                  | application-collaboration |    |
+| **GOB03. Modelamiento**                        | application-collaboration |    |
+| **GOB04. Repositorio Artefactos FNA <<Mega>>** | application-interaction   |    |
+| **Aplicaciones**                               | application-process       |    |
+| **Datos**                                      | application-process       |    |
+| **Infraestructura**                            | application-process       |    |
+| **Inversion TI**                               | application-process       |    |
+| **Servicios**                                  | application-process       |    |
+| **Actores Áreas FNA**                          | business-actor            |    |
+| **Arquitecto FNA**                             | business-actor            |    |
+| **Arquitecto Solución**                        | business-actor            |    |
+| **GOB01. Colaboración entre Oficinas**         | business-collaboration    |    |
+| **Análisis**                                   | data-object               | Análisis de impacto, complejidad, plan de cambios, estimaciones, costo / beneficio.                                 |
 | **Bloques de Solucion (N200...500)**           | data-object               |                                                                                                                     |
 | **Contenidos**                                 | data-object               | Presentaciones, Diagramas, Textos, Matrices, Listas, Catálogos, Estimaciones.                                       |
 | **Diseños (N100)**                             | data-object               | Diseños de nivel 100. Conceptuales. Necesarios para insumo de análisis de impacto, complejidad y costo / beneficio. |
@@ -726,7 +725,7 @@ Una variante del flujo de trabajo arquitectura ADM, y más sgnificativa para el 
 <br>
 
 ## Bloques de Construcción Requeridos por Arquitectura (LAOF)
-Los bloques de solución a los que nos referimos en el paso del arquitecto de solución son paquetes de funcionalidad definidos por necesidades de negocio o del arquitecto. Pueden ser cualquier clasificador (objeto tipo) correspondiente al modelo de contenidos de la empresa, como por ejemplo, actores, servicios, aplicaciones, o entidades de datos. Representan un único concepto que tiene límites claros y es reconocible como 'parte' en un dominio de la arquitectura. Puede o no interoperar con otros bloques. Es importante que un bloque de construcción tenga una implementación y un uso. Debe además evolucionar mediante la tecnología. 
+Los bloques de solución a los que nos referimos en los pasos no. 2 y 5 del flujo anterior, arquitecto de solución, son los paquetes de funcionalidad definidos por las necesidades de negocio o del arquitecto. Pueden ser cualquier clasificador (objeto tipo) correspondiente al modelo de contenidos de la empresa, como por ejemplo, actores, servicios, aplicaciones, o entidades de datos. Representan un único concepto que tiene límites claros y es reconocible como 'parte' en un dominio de la arquitectura. Puede o no interoperar con otros bloques. Es importante que un bloque de construcción tenga una implementación y un uso. Debe además evolucionar mediante la tecnología. 
 
 Los bloques de solución pueden estar compuesto por otros (ensamblado), y por tanto, puede ser descompuesto (desensamblado) en los bloques pequeños que los constituyen. Es obligatorio que sea reutilizable, reemplazable, y especificado a conformidad.
 
@@ -768,7 +767,7 @@ Además de las actividades que se llevan a cabo en el interno de la actividad re
 El seguimiento se los cambios consiste en la vertificación de que los diseños permanezcan vigentes ante las novedades y nuevas decisiones sucedidas en la construcción.
 
 
-![PUntos de control del flujo de colaboración entre oficinas de arquitctura para el FNA. Los puntos de control van dirigidos principalmente a trata el problema de los incumplimientos de diseño en las implementaciones.](images/pcontrol.png){#fig: width=}
+![PUntos de control del flujo de colaboración entre oficinas de arquitctura para el FNA. Los puntos de control van dirigidos principalmente a trata el problema de los incumplimientos de diseño en las implementaciones.](images/pcontrol.png){#fig:pcontrol.png width=}
 
 _Fuente: Diagnóstico SOA. E-Service (2022)._
 
@@ -793,7 +792,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.e37b489** del 14 Jul 2023                                           |
+| Versión        | **1.8999aeb** del 21 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -922,7 +921,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Version        | 1.e37b489 del 14 Jul 2023                                               |
+| Version        | 1.8999aeb del 21 Jul 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -968,7 +967,7 @@ El proceso de alistamiento, devenido de TOGAF, y adaptado al contexto del FNA, n
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                          |
 | Autor          |                                                                    |
 | Fuente         |                                                                    |
-| Versión        | **1.e37b489** del 14 Jul 2023                               |
+| Versión        | **1.8999aeb** del 21 Jul 2023                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -1063,9 +1062,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    14 Jul 2023
+>    21 Jul 2023
 >
->    **Versión** 1.e37b489
+>    **Versión** 1.8999aeb
 
 <br>
 
@@ -1123,7 +1122,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI  |
 | Autor          |                                                                  |
 | Fuente         |                                                                  |
-| Versión        | **1.e37b489** del 14 Jul 2023                             |
+| Versión        | **1.8999aeb** del 21 Jul 2023                             |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -1208,7 +1207,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.e37b489** del 14 Jul 2023                                           |
+| Versión        | **1.8999aeb** del 21 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -1277,7 +1276,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.e37b489** del 14 Jul 2023                                           |
+| Versión        | **1.8999aeb** del 21 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
