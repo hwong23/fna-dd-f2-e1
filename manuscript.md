@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-24" />
   <meta name="citation_publication_date" content="2023-07-24" />
   <meta property="article:published_time" content="2023-07-24" />
-  <meta name="dc.modified" content="2023-07-24T18:00:48+00:00" />
-  <meta property="article:modified_time" content="2023-07-24T18:00:48+00:00" />
+  <meta name="dc.modified" content="2023-07-24T18:02:01+00:00" />
+  <meta property="article:modified_time" content="2023-07-24T18:02:01+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/2439bb123f13f88565ae352e2f203acfe7c390a2/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/2439bb123f13f88565ae352e2f203acfe7c390a2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/2439bb123f13f88565ae352e2f203acfe7c390a2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/246cb683980709fdb09e14a8acf03644175e3820/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/246cb683980709fdb09e14a8acf03644175e3820/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/246cb683980709fdb09e14a8acf03644175e3820/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/2439bb123f13f88565ae352e2f203acfe7c390a2/))
+<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/246cb683980709fdb09e14a8acf03644175e3820/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@2439bb1](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@246cb68](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 24, 2023.
 </em></small>
 
-|    **Versión** del producto 1.2439bb1 de 24 Jul 2023
+|    **Versión** del producto 1.246cb68 de 24 Jul 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.2439bb1 del 24 Jul 2023 |
+| Versión        | 1.246cb68 del 24 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -176,7 +176,7 @@ tablenos-caption-name: Tabla
 >
 >    24 Jul 2023
 >
->    **Versión** 1.2439bb1
+>    **Versión** 1.246cb68
 
 <br>
 
@@ -233,7 +233,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                         |
 | Autor          |                                                                                   |
 | Fuente         |                                                                                   |
-| Versión        | **1.2439bb1** del 24 Jul 2023                                              |
+| Versión        | **1.246cb68** del 24 Jul 2023                                              |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -281,7 +281,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.2439bb1** del 24 Jul 2023                                           |
+| Versión        | **1.246cb68** del 24 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -512,7 +512,7 @@ Otra función de esta capacidad es la normalización de la publicación y el uso
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.2439bb1** del 24 Jul 2023                                           |
+| Versión        | **1.246cb68** del 24 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -564,7 +564,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Principios |
 | Autor          |                                                                      |
 | Fuente         |                                                                      |
-| Versión        | **1.2439bb1** del 24 Jul 2023                                 |
+| Versión        | **1.246cb68** del 24 Jul 2023                                 |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -613,7 +613,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Flujo de trabajo |
 | Autor          |                                                             |
 | Fuente         |                                                             |
-| Versión        | **1.2439bb1** del 24 Jul 2023                        |
+| Versión        | **1.246cb68** del 24 Jul 2023                        |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -791,7 +791,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.2439bb1** del 24 Jul 2023                                           |
+| Versión        | **1.246cb68** del 24 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -800,7 +800,7 @@ tablenos-caption-name: Tabla
 Las funciones que vamos a definir para el gobierno SOA del FNA, entendidas como responsabilidades de la oficina de arquitectura, están dirigidos a las problemáticas encontradas en la Fase I. Estas son, a saber: 
 
 *   Dado los niveles de complejidad que el FNA ha alcanzado y por los riesgos tecnológico que contraen las partes analizadas en la Fase 1 de este diagnóstico (...)
-*   De las problemáticas encontradas en la Fase 1 del presente diagnóstico, (...))explícitamente a las que incrementan la complejidad de las soluciones tecnológicas y de software del FNA, _como lo es el manejo de dependencias de los servicios SOA del Fondo_. Es muy conocido que esta condición es la causa de la mayoría de los sobreesfuerzos en los cambios y de las dificultades a la hora de predecir su impacto.
+*   De las problemáticas encontradas en la Fase 1 del presente diagnóstico, (...)) explícitamente a las que incrementan la complejidad de las soluciones tecnológicas y de software del FNA, _como lo es el manejo de dependencias de los servicios SOA del Fondo_. Es muy conocido que esta condición es la causa de la mayoría de los sobreesfuerzos en los cambios y de las dificultades a la hora de predecir su impacto.
 *   (...) Estas complicaciones, que denotan un débil gobierno preexistente, se encuentran otras que fueron levantadas en la Fase 1 del diagnóstico E-Service: - Agilidad limitada, - Complejidad e imprecisión, en la trazabilidad, - Ocultamiento de funcionalidades.
 
  Ver [Resumen de Fase 1](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md).
@@ -808,9 +808,9 @@ Las funciones que vamos a definir para el gobierno SOA del FNA, entendidas como 
 <br>
 
 ## Funciones de Gobierno FNA: Oficina de Arquitectura
-Las condiciones preexistentes en el FNA indicadas arriba definen el contexto en el cual debe operar, y el que hay que enfrentar con el nuevo gobierno SOA del FNA, versión 0.5. Para enfrentar este contexto requerimos antes lo que llamaremos funciones del gobierno, y que estas sean explícitas para el contexto del FNA. Estas funciones deben tener un corresponsal directo, y este es la oficina de arquitectura del FNA (LOAF), dado que esta es la que las debe ejecutar. Por tanto, el modelo de gobierno FNA, v0.5, propuesto arriba, _viene a jugar el rol del sistema u órgano operativo del que la oficina de arquitectura es el órgano ejectivo de este gobierno_.
+Las condiciones preexistentes en el FNA indicadas arriba definen el contexto en el cual debe operar, y el que hay que enfrentar con el nuevo gobierno SOA del FNA, versión 0.5. Para enfrentar este contexto requerimos antes lo que llamaremos funciones del gobierno, y que estas sean explícitas para el contexto del FNA. Estas funciones deben tener un corresponsal directo, y este es la oficina de arquitectura del FNA (LOAF), dado que esta es la que las debe ejecutar. Por tanto, el modelo de gobierno FNA, v0.5, propuesto arriba, _viene a jugar el rol del sistema u órgano operativo del que la oficina de arquitectura es el órgano ejecutivo de este gobierno_.
 
-Para darle realización a todo el modelo de gobierno (el sistema operativo de la oficina) necesitamos en primer lugar que la oficina funcione de una manera particular. Esto es, la oficina debe ejecutar funciones claras y entregar el resultado de estas a quienes se las solicitan. Vamos a definir tres funcones fundamentales que, desde el gobierno, la oficina de arquitectura del FNA (LOAF) debe realizar con modalidad diaria. 
+Para darle realización a todo el modelo de gobierno (el sistema operativo de la oficina) necesitamos en primer lugar que la oficina funcione de una manera particular. Esto es, la oficina debe ejecutar funciones claras y entregar el resultado de estas a quienes se las solicitan. Vamos a definir tres funciones fundamentales que, desde el gobierno, la oficina de arquitectura del FNA (LOAF) debe realizar con modalidad diaria. 
 
 Estas funciones son operaciones esperadas por aquellos con los que la oficina de arquitectura se relacione. Vienen siendo la interfaz de la oficina expuesta a terceros, y que estos pueden utilizar o requerir de los arquitectos.
 
@@ -823,19 +823,19 @@ _Fuente: Elaboración propia._
 En la imagen muestra que estas funciones operativas juegan el rol de interfaz de entrada para quien demande una respuesta (salida) de la oficina. Las funciones se complementan de solicitudes específicas que actúan a su vez como contratos de la interfaz de la oficina. Estas funciones se explican se la siguiente manera.
 
 ### FUN01. Centralizar
-La función de centralizar se ocupa de reunir y gestionar la versión única de los productos de trabajo, y de la información, que posee la ofcina. Ejemplo, las decisiones de arquitectura. Es deber del área de arquitectura del FNA centralizar la autoría y gestión de este tipo de infomación. De igual manera se entiende esta función con otro ejemplo o tipo de información a centralizar: los modelos.
+La función de centralizar se ocupa de reunir y gestionar la versión única de los productos de trabajo, y de la información, que posee la oficina. Ejemplo, las decisiones de arquitectura. Es deber del área de arquitectura del FNA centralizar la autoría y gestión de este tipo de información. De igual manera se entiende esta función con otro ejemplo o tipo de información a centralizar: los modelos.
 
 ### FUN02. Diagnosticar / Solución (modelar)
-La función de diagnósticar y modelar una solución es la función central de esta oficina de arquitectura en el FNA. Esto se debe a que todos los resultados que la oficina produce están basados en modelos, y en hechos objetivos, alejándose de la habitual intuición y el juicio apresurado.
+La función de diagnosticar y modelar una solución es la función central de esta oficina de arquitectura en el FNA. Esto se debe a que todos los resultados que la oficina produce están basados en modelos, y en hechos objetivos, alejándose de la habitual intuición y el juicio apresurado.
 
 ### FUN03. Distribuir (compartir)
-La función de distribuir, que equivale a la función de compartir contenidos, es la gestión de las entrega de los productos de trabajo, resultados y contenidos producidos por las funciones anteriores.
+La función de distribuir, que equivale a la función de compartir contenidos, es la gestión de las entregas de los productos de trabajo, resultados y contenidos producidos por las funciones anteriores.
 
 <br>
 
 # Responsabilidades de la Oficina de Arquitectura
 ## Responsabilidades Generales
-Las responsabilide que el gobierno del FNA debe exigir, y que la oficina de arquitectura del FNA debe realizar, son:
+Las responsabilidades que el gobierno del FNA debe exigir, y que la oficina de arquitectura del FNA debe realizar, son:
 
 * RESPC01. Vigilancia de alineación negocio-arquitectura
 * RESPC02. Equilibrio arquitectura y procesos SOA
@@ -857,7 +857,7 @@ _Fuente: Elaboración propia._
 ## Responsabilidades por Rol
 Partimos del modelo de gobierno, versión 0.5.
 
-| Nombre                                         | Tipo                      | Reponsabilidades |
+| Nombre                                         | Tipo                      | Responsabilidades |
 |:-----------------------------------------------|:--------------------------|:---------------  |
 | **Actores Áreas FNA**                          | business-actor            | Solicitar y revisar contenidos emitidos por la oficina de arquitectura FNA |
 | **Arquitecto SOA FNA**                         | business-actor            | - Ejecutar el flujo de trabajo de la oficina de arquitectura  |
@@ -911,7 +911,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | 1.2439bb1 del 24 Jul 2023                                               |
+| Versión        | 1.246cb68 del 24 Jul 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -957,7 +957,7 @@ El proceso de alistamiento, devenido de TOGAF, y adaptado al contexto del FNA, n
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                          |
 | Autor          |                                                                    |
 | Fuente         |                                                                    |
-| Versión        | **1.2439bb1** del 24 Jul 2023                               |
+| Versión        | **1.246cb68** del 24 Jul 2023                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -1054,7 +1054,7 @@ tablenos-caption-name: Tabla
 >
 >    24 Jul 2023
 >
->    **Versión** 1.2439bb1
+>    **Versión** 1.246cb68
 
 <br>
 
@@ -1112,7 +1112,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI  |
 | Autor          |                                                                  |
 | Fuente         |                                                                  |
-| Versión        | **1.2439bb1** del 24 Jul 2023                             |
+| Versión        | **1.246cb68** del 24 Jul 2023                             |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -1123,7 +1123,7 @@ Otro de los instrumentos en donde se materializa el gobierno SOA, objeto de este
 
 Es de su despacho armonizar los requisitos arquitectónicos macro del FNA, que de otra manera  divergirían o prevalecerían las opiniones en lugar de los criterios. Por esta razón, su principal objetivo (objetivo general) es garantizar que las visiones y los estándares de la oficina de arquitectura estén alineados con el gobierno SOA del FNA, y por ende, con el correcto uso del repositorio de arquitectura del FNA (RAF). 
 
-El la siguiente diagrama resumimos la actuación y colaboración del modelo operativo del Comité de Arquitectura. 
+En el siguiente diagrama resumimos la actuación y colaboración del modelo operativo del Comité de Arquitectura. 
 
 ![Comité de Arquitectura en colaboración y cumplimiento con otras áreas del FNA.](images/comiteModelo.png){#fig: width=}
 
@@ -1131,7 +1131,7 @@ _Fuente: elaboración propia._
 
 <br>
 
-Es posibilidad del Comité acceder a los modelos, a los que evaluará. Así mismo, debe ponder accder a las capacidades de gestión de requerimientos de arquitectura, y al registro de decisiones en donde consignará sus resoluciones (ver [Funciones del Comité, más adelante](https://stefaninilatam.sharepoint.com/SitePages/Home.aspx)).
+Es posibilidad del Comité acceder a los modelos, a los que evaluará. Así mismo, debe poder acceder a las capacidades de gestión de requerimientos de arquitectura, y al registro de decisiones en donde consignará sus resoluciones (ver [Funciones del Comité, más adelante](https://stefaninilatam.sharepoint.com/SitePages/Home.aspx)).
 
 
 ## Objetivo Principal del Comité de Arquitectura del FNA (CAF)
@@ -1159,14 +1159,14 @@ El comité de arquitectura tiene dos funciones básicas. Es decir, lo que se esp
 ### Función de Dirimir (FUNC11)
 El Comité debe proporcionar herramientas y contar con métodos precisos para avalar una decisión de arquitectura sobre otra. Además, en arreglo al principio de paridad y ponderación, las decisiones de arquitectura no pueden generar ventajas a terceros por los diseños propuestos.
 
-Esta función debe ejecutarse en modalidad eventual: cuando en la llegada de un trabajo de arquitectura, la Oficina determina que requiere una sesión del Comité (CAF) para acordar una solución de carácter impactante para la empresa. Las condiciones de impactante, están relacionadas con los análisis primarios de complejidad, impacto y costo/beneficio descritos en el modelo operativo de este gobierno, objeto del proyecto.
+Esta función debe ejecutarse en modalidad eventual: cuando en la llegada de un trabajo de arquitectura, la Oficina determina que requiere una sesión del Comité (CAF) para acordar una solución de carácter impactante para la empresa. Las condiciones impactantes, están relacionadas con los análisis primarios de complejidad, impacto y costo/beneficio descritos en el modelo operativo de este gobierno, objeto del proyecto.
 
 ### Función de Divulgar (FUNC12)
 Esta función tiene dos modalidades. Primero, la de evidenciar. El Comité (CAF) debe evidenciar, en todo momento, las consideraciones y soportes que condujeron a las conclusiones tras una decisión de arquitectura. Para esto, es fundamental la Bitácora de Decisiones, capacidad que debe procurar el repositorio de arquitectura del FNA, de cuya efectividad se desprende la característica de relacionamiento entre bloques de construcción de los modelos (ver [Bloques de Construcción Requeridos por Arquitectura, en Flujos de Trabajo Oficina de Arquitectura](onenote:#N003a.com)).
 
 Esta función debe con frecuencia eventual: cuando le sea requerido por la Vicepresidencia de Tecnología del FNA.
 
-La segunda modalidad de esta función es la de comunicar. El Comité (CAF) debe reunir a las partes interesadas en conocer los avances teóricos, prácticos y metológicos que considere pertinentes que la empresa conozca.
+La segunda modalidad de esta función es la de comunicar. El Comité (CAF) debe reunir a las partes interesadas en conocer los avances teóricos, prácticos y metodológicos que considere pertinentes que la empresa conozca.
 
 Esta función debe con frecuencia periódica trimestral: cada 3 meses.
 
@@ -1197,7 +1197,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.2439bb1** del 24 Jul 2023                                           |
+| Versión        | **1.246cb68** del 24 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -1266,7 +1266,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.2439bb1** del 24 Jul 2023                                           |
+| Versión        | **1.246cb68** del 24 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
