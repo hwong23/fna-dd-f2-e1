@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-24" />
   <meta name="citation_publication_date" content="2023-07-24" />
   <meta property="article:published_time" content="2023-07-24" />
-  <meta name="dc.modified" content="2023-07-24T13:27:10+00:00" />
-  <meta property="article:modified_time" content="2023-07-24T13:27:10+00:00" />
+  <meta name="dc.modified" content="2023-07-24T13:28:38+00:00" />
+  <meta property="article:modified_time" content="2023-07-24T13:28:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e1/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e1/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/13402c60deee3c2f14d1ae7feb67726315669dae/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/13402c60deee3c2f14d1ae7feb67726315669dae/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/13402c60deee3c2f14d1ae7feb67726315669dae/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e1/v/70579129ecf26fc1920fcc4ee05bde4cc235e156/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/70579129ecf26fc1920fcc4ee05bde4cc235e156/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e1/v/70579129ecf26fc1920fcc4ee05bde4cc235e156/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/13402c60deee3c2f14d1ae7feb67726315669dae/))
+<small><em>Este producto PR02 ([Web](https://hwong23.github.io/fna-dd-f2-e1/v/70579129ecf26fc1920fcc4ee05bde4cc235e156/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@13402c6](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@7057912](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 24, 2023.
 </em></small>
 
-|    **Versión** del producto 1.13402c6 de 24 Jul 2023
+|    **Versión** del producto 1.7057912 de 24 Jul 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega del producto 2 (PR02) del proyecto Gobierno SOA: Políticas, flujos de t
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.13402c6 del 24 Jul 2023 |
+| Versión        | 1.7057912 del 24 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -176,7 +176,7 @@ tablenos-caption-name: Tabla
 >
 >    24 Jul 2023
 >
->    **Versión** 1.13402c6
+>    **Versión** 1.7057912
 
 <br>
 
@@ -233,7 +233,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                         |
 | Autor          |                                                                                   |
 | Fuente         |                                                                                   |
-| Versión        | **1.13402c6** del 24 Jul 2023                                              |
+| Versión        | **1.7057912** del 24 Jul 2023                                              |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -281,7 +281,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.13402c6** del 24 Jul 2023                                           |
+| Versión        | **1.7057912** del 24 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -512,7 +512,7 @@ Otra función de esta capacidad es la normalización de la publicación y el uso
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.13402c6** del 24 Jul 2023                                           |
+| Versión        | **1.7057912** del 24 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -564,7 +564,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Principios |
 | Autor          |                                                                      |
 | Fuente         |                                                                      |
-| Versión        | **1.13402c6** del 24 Jul 2023                                 |
+| Versión        | **1.7057912** del 24 Jul 2023                                 |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -613,7 +613,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos, Flujo de trabajo |
 | Autor          |                                                             |
 | Fuente         |                                                             |
-| Versión        | **1.13402c6** del 24 Jul 2023                        |
+| Versión        | **1.7057912** del 24 Jul 2023                        |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -791,7 +791,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.13402c6** del 24 Jul 2023                                           |
+| Versión        | **1.7057912** del 24 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -853,18 +853,6 @@ _Fuente: Elaboración propia._
 
 <br>
 
-## Vigilancia de alineación negocio-arquitectura
-
-## Equilibrio arquitectura y procesos SOA
-
-## Supervisión de efectividad y factibilidad SOA
-
-## Mejora de los índices de efectividad (madurez) SOA
-
-## Consideraciones para la puesta en marcha del gobierno SOA en el FNA
-
-<br>
-
 # Roles y Responsabilidades de la Oficina de Arquitectura
 ## Responsabilidades por Rol
 Partimos del modelo de gobierno, versión 0.5.
@@ -923,7 +911,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                                      |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | 1.13402c6 del 24 Jul 2023                                               |
+| Versión        | 1.7057912 del 24 Jul 2023                                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -969,7 +957,7 @@ El proceso de alistamiento, devenido de TOGAF, y adaptado al contexto del FNA, n
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos                          |
 | Autor          |                                                                    |
 | Fuente         |                                                                    |
-| Versión        | **1.13402c6** del 24 Jul 2023                               |
+| Versión        | **1.7057912** del 24 Jul 2023                               |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -1011,7 +999,7 @@ _Fuente: www.opengroup.org/soa/source-book/togaf._
 
 
 ## Anexo 4. Formato para la Bitácora de Arquitectura (ARD)
-La bitácora de decisiones de arquitectura (BDA) es una herramienta para ejercitar el proceso de toma de decisiones de la oficina. La bitácora estructura y sigue (versión y trazabilidad) las discusiones de la oficina de arquitectura del FNA. Cumple el objetivo de materializar el consenso entre los arquitectos elevándolo a un grado oficial, al tiempo que reune a la oficina alrededor del mismo contexto, problema, restricciones, conveniencia (pro/con), alternativas y opciones de solución.
+La bitácora de decisiones de arquitectura (BDA) es una herramienta para ejercitar el proceso de toma de decisiones de la oficina. La bitácora estructura y sigue (versión y trazabilidad) las discusiones de la oficina de arquitectura del FNA. Cumple el objetivo de materializar el consenso entre los arquitectos elevándolo a un grado oficial, al tiempo que reúne a la oficina alrededor del mismo contexto, problema, restricciones, conveniencia (pro/con), alternativas y opciones de solución.
 
 Existen muchas plantillas para esta herramienta. Proponemos la siguiente.
 
@@ -1022,7 +1010,7 @@ Existen muchas plantillas para esta herramienta. Proponemos la siguiente.
 * Referencias a imágenes y contenidos del repositorio de arquitectura FNA
 
 ### Formato
-Título: Comienza con la fecha en formato AAAA-MM-DD siempre que contenga una descripción concisa de lo que trata el ADR. Considere que nombrar es difícil en sistemas, así que desarrolle un sistema de nombramiento para las deciisones de arquitectura: identificación, nomenclatura, prefijos y sufijos. Cualquiera sea el identificador de la entrada, o formato de fecha elegido, debe comportar que el orden alfabético también sea el orden del identificador.
+Título: Comienza con la fecha en formato AAAA-MM-DD siempre que contenga una descripción concisa de lo que trata el ADR. Considere que nombrar es difícil en sistemas, así que desarrolle un sistema de nombramiento para las decisiones de arquitectura: identificación, nomenclatura, prefijos y sufijos. Cualquiera sea el identificador de la entrada, o formato de fecha elegido, debe comportar que el orden alfabético también sea el orden del identificador.
 
 Participantes: Esta es simplemente una lista de personas que participaron en esta discusión. Esto es útil porque ayuda a aclarar preguntas como "¿pero le preguntaste a un desarrollador de aplicaciones?" o “¿estuvo involucrada la gestión de productos en esta decisión?”. Dos días después puede que lo recuerdes. Dos meses después probablemente no.
 
@@ -1066,12 +1054,12 @@ tablenos-caption-name: Tabla
 >
 >    24 Jul 2023
 >
->    **Versión** 1.13402c6
+>    **Versión** 1.7057912
 
 <br>
 
 # Producto 3: PR03. Diseño de los Procesos y Responsabilidades del Comité de Gobierno
-El comité de gobierno del FNA, PR03 de este proyecto, promueve y establece necesaria la participación de la oficina de arquitectura del FNA (LOAF) con otras áreas pertinentes del FNA. El Comité está basado en los preceptos y roles del Equipo de Arquitectura Ágil (Disciplined Agile® Architecture DA™). Una condición importante es que el comité de arquitctura no sustituye ni supedita a otros existentes en el FNA, tales como el Comité de Control de Cambios, o los que surgen por demás asuntos tecnológicos. Dentro de este comité de gobierno existen roles permitentes a la arquitectura del FNA. Opcionalmente participarán otros roles externos a la oficina, de otras áreas y vicepresidencias del Fondo, como los líderes y grupos de producto.
+El comité de gobierno del FNA, PR03 de este proyecto, promueve y establece necesaria la participación de la oficina de arquitectura del FNA (LOAF) con otras áreas pertinentes del FNA. El Comité está basado en los preceptos y roles del Equipo de Arquitectura Ágil (Disciplined Agile® Architecture DA™). Una condición importante es que el comité de arquitectura no sustituye ni supedita a otros existentes en el FNA, tales como el Comité de Control de Cambios, o los que surgen por demás asuntos tecnológicos. Dentro de este comité de gobierno existen roles permitentes a la arquitectura del FNA. Opcionalmente participarán otros roles externos a la oficina, de otras áreas y vicepresidencias del Fondo, como los líderes y grupos de producto.
 
 > **Nota 1**: los roles del Comité de Gobierno de Arquitectura no son posiciones dentro del organigrama del FNA.<p>
 > **Nota 2**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: desarrollo, gestión, gobierno de arquitectura y adopción.
@@ -1079,12 +1067,12 @@ El comité de gobierno del FNA, PR03 de este proyecto, promueve y establece nece
 <br>
 
 ## Justificación
-El Comité de Gobierno de Arquitectura captura y gestiona mediante la bitácora de decisiones de arquitectura del FNA (BDA) las razones, cambios, reformas, transiciones que están detrás de los requerimientos de arquitectura del FNA (flexibilidad, confiabilidad, rendimiento, mantenibilidad). El Comité comunicará y establecerá responsabilidades directas que de las adaptaciones se deriven a fin de proveer el rastro pertinente a los revisores de estos modificaciones determinadas por la oficina de arquitectura y por este. El Comité de Gobierno de Arquitectura del FNA es, por tanto, la instancia donde se dirimen y dirigen los requerimientos de arquitectura de mediano y largo plazo (TOGAF, Architecture Requirement Specification), que muchas veces son del tipo de adaptación o migración a una nueva tecnología exclusivas de las arquiteturas del FNA.
+El Comité de Gobierno de Arquitectura captura y gestiona mediante la bitácora de decisiones de arquitectura del FNA (BDA) las razones, cambios, reformas, transiciones que están detrás de los requerimientos de arquitectura del FNA (flexibilidad, confiabilidad, rendimiento, mantenibilidad). El Comité comunicará y establecerá responsabilidades directas que de las adaptaciones se deriven a fin de proveer el rastro pertinente a los revisores de estas modificaciones determinadas por la oficina de arquitectura y por este. El Comité de Gobierno de Arquitectura del FNA es, por tanto, la instancia donde se dirimen y dirigen los requerimientos de arquitectura de mediano y largo plazo (TOGAF, Architecture Requirement Specification), que muchas veces son del tipo de adaptación o migración a una nueva tecnología exclusivas de las arquitecturas del FNA.
 
 ## Contenidos
 1. Descripción del Comité de Gobierno de Arquitecturas del FNA: ámbitos y alcances del comité
 1. Consideraciones para la puesta en marcha de la bitácora de decisiones de arquitectura
-1. Respositorio y gestión de los requerimientos de arquitectura del FNA (flexibilidad, confiabilidad, rendimiento, mantenibilidad)
+1. Repositorio y gestión de los requerimientos de arquitectura del FNA (flexibilidad, confiabilidad, rendimiento, mantenibilidad)
 1. Métodos de evaluación de arquitecturas para el FNA
 
 <br>
@@ -1124,7 +1112,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI  |
 | Autor          |                                                                  |
 | Fuente         |                                                                  |
-| Versión        | **1.13402c6** del 24 Jul 2023                             |
+| Versión        | **1.7057912** del 24 Jul 2023                             |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -1209,7 +1197,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.13402c6** del 24 Jul 2023                                           |
+| Versión        | **1.7057912** del 24 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -1221,10 +1209,10 @@ La bitácora de decisiones es una herramienta para gestionar la toma de decision
 ### Registro Histórico y Diferencial (versiones)
 La bitácora de decisiones de arquitectura (BDA, o ADR por sus siglas en inglés) debe registrar las entradas en dos dimensiones: temporal (histórico o horizontal) y diferencial (vertical o distinción de cambios). Características de los sistemas de configuración o versionamiento (SCM, por sus siglas en inglés) implementan ambas dimensiones en lo que a código o texto se refiere. 
 
-Por tal motivo, recomendamos que la bitácora pueda ser implementada en una herramienta SCM, como _Git_, o similar, que cuenta con las características antes descritas de temporalidad y diferencialidad (distinción de cambios).
+Por tal motivo, recomendamos que la bitácora pueda ser implementada en una herramienta SCM, como _Git_, o similar, que cuenta con las características antes descritas de temporalidad y diferencia (distinción de cambios).
 
 ### Formato para la Bitácora de Arquitectura (ARD)
-La bitácora de decisiones de arquitectura (BDA, o ADR por sus siglas en inglés) es una herramienta para ejercitar el proceso de toma de decisiones de la oficina. La bitácora estructura y sigue (versión y trazabilidad) las discusiones de la oficina de arquitectura del FNA. Cumple el objetivo de materializar el consenso entre los arquitectos elevándolo a un grado oficial, al tiempo que reune a la oficina alrededor del mismo contexto, problema, restricciones, conveniencia (pro/con), alternativas y opciones de solución.
+La bitácora de decisiones de arquitectura (BDA, o ADR por sus siglas en inglés) es una herramienta para ejercitar el proceso de toma de decisiones de la oficina. La bitácora estructura y sigue (versión y trazabilidad) las discusiones de la oficina de arquitectura del FNA. Cumple el objetivo de materializar el consenso entre los arquitectos elevándolo a un grado oficial, al tiempo que reúne a la oficina alrededor del mismo contexto, problema, restricciones, conveniencia (pro/con), alternativas y opciones de solución.
 
 Existen muchas plantillas para esta herramienta. Proponemos la siguiente.
 
@@ -1237,7 +1225,7 @@ Existen muchas plantillas para esta herramienta. Proponemos la siguiente.
 ### Formato
 * Título: El título siempre comienza con la fecha en formato AAAA-MM-DD siempre que contenga una descripción concisa de lo que trata el ADR. Y encontrar una buena descripción no siempre es tan fácil: como todos sabemos, nombrar cosas es una de las dos cosas difíciles en informática, así que tómate tu tiempo y piensa un poco en ello. Tu futuro te lo agradecerá después. El formato de fecha se elige de modo que el orden alfabético también sea el orden de fecha correcto.
 
-* Participantes: Lista de involucrados que participaron en una sesión o discusión del comité. Esto ayuda a generar la memoria para responder y aclarar preguntas como "¿le preguntaron a ingeniero escargado de tal aplicación, o al desarrollador?" o “¿estuvo involucrada la gestión de productos en esta decisión?”. Esta memoria es clave luego de meses de la sesión.
+* Participantes: Lista de involucrados que participaron en una sesión o discusión del comité. Esto ayuda a generar la memoria para responder y aclarar preguntas como "¿le preguntaron al ingeniero encargado de tal aplicación, o al desarrollador?" o “¿estuvo involucrada la gestión de productos en esta decisión?”. Esta memoria es clave luego de meses de la sesión.
 
 * Estado: Definimos cuatro estados diferentes en los que una entrada de la BDA (ADR) puede estar:
   - Abierto: Se ha registrado como un problema, es posible que aún falte información y aún no se ha iniciado la discusión.
@@ -1278,7 +1266,7 @@ tablenos-caption-name: Tabla
 | Palabras clave | SOA, Comité de arquitectura, Funciones, Responsabilidades, RACI |
 | Autor          |                                                                                |
 | Fuente         |                                                                                |
-| Versión        | **1.13402c6** del 24 Jul 2023                                           |
+| Versión        | **1.7057912** del 24 Jul 2023                                           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -1287,7 +1275,7 @@ tablenos-caption-name: Tabla
 El Comité de arquitectura tiene la función de evaluación de arquitecturas (FUNC13. Evaluación de arquitecturas, en [Descripción del Comité de Gobierno de Arquitecturas del FNA: ámbitos y alcances del comité](<03n.1.descripcion comite.md>)). Para ello, y para no dilatar a los mismos procesos de arquitectura, ni a procesos asociados de ingeniería, los involucrados del Comité del FNA deberán aplicar método de evaluación de arquitectura abreviados e independientes de proveedor, fabricante o producto.
 
 ## Características del Método de Evaluación de Arquitecturas
-Para esta versión del Gobierno SOA del FNA establecemos que el método de evaluación de arquitctura debe ser una versión simplificada y efectiva de los métodos existentes. Bajo esa condición, puede ser cualquiera de los métodos generalemente aceptados, siempre que: 
+Para esta versión del Gobierno SOA del FNA establecemos que el método de evaluación de arquitectura debe ser una versión simplificada y efectiva de los métodos existentes. Bajo esa condición, puede ser cualquiera de los métodos generalmente aceptados, siempre que: 
 
 * Guarde compatibilidad con ATAM (Open Group)
 * Cumpla además con las siguientes características
